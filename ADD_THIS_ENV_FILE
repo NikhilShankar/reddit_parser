@@ -1,0 +1,5 @@
+REDDIT_CLIENT_ID=your_client_id_here
+REDDIT_CLIENT_SECRET=your_client_secret_here
+REDDIT_USER_AGENT=MindfulnessScaper/1.0 by YourUsername
+
+Make sure to add the reddit cient secret in a .env file
