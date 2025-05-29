@@ -1,0 +1,652 @@
+{
+  "total_topics": 24,
+  "total_documents": 2,
+  "content_breakdown": {
+    "posts_count": 3515,
+    "comments_count": 9825,
+    "total_content": 13340
+  },
+  "sample_note": "Analysis based on ALL posts + top comments",
+  "outliers_count": 0,
+  "tier_distribution": {
+    "tier_1_major_needs": 7,
+    "tier_2_secondary_needs": 10,
+    "tier_3_niche_needs": 7
+  },
+  "application_insights": {
+    "primary_user_needs": [
+      "Topic 0: like, day, don, people",
+      "Topic 1: eating, eat, diet, taste",
+      "Topic 2: age, young, life, old",
+      "Topic 3: money, benefits, people, brain",
+      "Topic 4: shower, water, showers, cold",
+      "Topic 5: posts, post, self help, sub",
+      "Topic 6: cold, showers, cold showers, shower"
+    ],
+    "secondary_opportunities": [
+      "Topic 7: book, man, podcast, search",
+      "Topic 8: teeth, brush, brush teeth, care",
+      "Topic 9: chatgpt, child, chat, written",
+      "Topic 10: ai, grammar, philosophical, written",
+      "Topic 11: app, version, wait, hello",
+      "Topic 12: app, social media, media, social",
+      "Topic 13: men, women, woman, man",
+      "Topic 14: science, didn, obviously, god"
+    ],
+    "niche_features": [
+      "Topic 17: learn, learning, section, japanese",
+      "Topic 18: remember, use, number, information",
+      "Topic 19: jordan peterson, peterson, jordan, bathroom",
+      "Topic 20: ve learnt, audio, learnt, shout",
+      "Topic 21: eat, rest day, task, morning"
+    ]
+  },
+  "topics": {
+    "0": {
+      "topic_id": 0,
+      "count": 6146,
+      "tier": "Tier 1 - Major User Need",
+      "analysis_depth": "comprehensive",
+      "top_words": [
+        "like",
+        "day",
+        "don",
+        "people",
+        "work",
+        "life",
+        "things",
+        "feel",
+        "ve",
+        "sleep"
+      ],
+      "representative_docs": [
+        "I'm. Not op, but a meditator. There's a ton of tactics out there, because there's a ton of ways to meditate. What I do: I sit, comfortably. I have a a cushion, but I've used stools. That's nice too. But comfortable on the floor, crossed slightly at an angle downward, hands in lap. It just improves your posture and gives you a ritualistic 'starting point'. I close my eyes gently, and start trying to focus on my breathing. First, I'll shift my awareness to the sensation in my nose, then how my lungs feel. I don't try to control my breathing, but I'm sure it happens. Then, after I'm aware of my breathing, I shift to counting. So 1, inhale, 2 exhale all the way up to 10, then back down. If I get distracted or lose count, *that's totally okay* and then I start again. The hardest for me was coming to terms with the fact my mind will wander off. The point isn't to empty your mind, or to be completely one with the universe or whatever, but to do two things: focus on something simple, forgive myself when I'm human. The end. For other forms of meditation: - people chant sutras, or little phrases to themselves. I don't think this. I got enough shit going on in my head. I also think this might be one of the ones that can (but not does) trigger emotional issues? Not sure on that so don't come after me. - some people try to visualize light. Usually it's light matching the breath, or a light entering your head and slowly spreading to you body. - doing what I mentioned with noticing breathing sensation, but in different parts of the body. So like head, then chest, then right arm, then left arm, then tummy, then legs, etc. - if outside, just focusing on nature sounds is pretty, pretty great - some people lay down, put a hand on their chest and a hand on their belly and use that as an anchor - some people walk and do one of the above Some advice I have: - negative thoughts will pop up. At first, it'll be like 'oh did I lock the door?' for intrusive thoughts. Eventually it'll be your insecurities looking back at you. The goal of meditation in my experience isn't to confront those insecurities head on, but to accept that we all have insecurities. We have intrusive thoughts. The Buddha says we all suffer, and that struggling is part of life. But the fastest way to perpetuate suffering is to act like we don't suffer. We do, it's okay. Some people acknowledge their bad thoughts then they get back on track, some people thank them, I personally just notice them, take a beat and make sure I'm caught up in being mad/sad/etc before going back to counting. But what you shouldn't do is beat yourself up about it, take it as truth, or try to argue with it. That will have you suffering. We should strive to not act immediately on our impulses, now is the time for meditation. If I am caught up in emotion, I wait for it to pass. That's hard, but it always passes within like 30 seconds. Sitting with the emotions is uncomfortable, but waiting for them to pass is effective. It teaches a good lesson. They *definitely will* pass. - whatever position is comfortable for you that you can hold is the position for you. People have all kinds of opinions on this, but this is the truth. But, I don't suggest it on your couch or in your desk chair (unless that's all you got). I suggest it being something different than your regular routine, with good posture (good posture = easy breathing), that gets you into the headspace of meditation. - start slow. 1 minute. Then two, 5, etc. Going straight to 15 or 30 min will make you hate it. One minute can feel like eternity when you're doing nothing, and eventually 30 minutes feels like a second. But if you're not used to mindfulness, ease in. - meditation won't make you happy like a maniac, people sometimes become stoic from it (I did). But it's also liberating. That's the happiness people find. That we don't have to have reactive minds, we can take a moment for ourselves, we can acknowledge our shortcomings without also beating ourselves up. It's a practice, not a solution though. The only way you get effects is practice. You lose strength if you don't train, you'll lose meditation gains if you don't do it. - reward yourself with a snack after. A small one. I guarantee it'll almost always be the best thing you've had that day. When you're still in that space, you mindfully eat in a way that's... Idk. I cried once over an apricot. - slowly come out of it. If your bell goes off, just slowly come out of it. Don't just jump up and go right back to whatever. Enjoy that time. Ps: there's tons of meditation apps out there. Tons of meditation styles. Most are fine, some are culty. Go forth at your own intuition. I like Sam Harris and also use the insight timer. It's changed a lot over the years, but I like the timer and they have tons of guided meditation from all the different flavors. Sam is trained in Tibetan Buddhism, but I think he leans towards theravada/non-religeous. He's an atheist, so I doubt he'd be talking about some of the stuff in Tibetan Buddhism. Ed: I realize I mentioned Buddhism a lot. This isn't meant to be a religion post, just that's the style I most identify with. I got a lot of insight from the Buddhist meditation groups I go to, and only one believed in a higher power of some sort (Tibetan). But, ultimately, what works for you works for you. You can argue thiestic prayer is a lot like mantra meditation if you wanted to. Just try to be human, just for a little bit, without any sort of judgement.",
+        "Things my 40 year old self would tell my younger self: -other women are allies, not competition. -make eye contact when you speak. -listen with your whole body and don’t just think about what you are going to say next. -shoulders back, don’t hunch…. Embody confidence and your back won’t feel like shit when you’re older. -set boundaries before the point of anger. That’s a sign you are triggered and need to heal a part of yourself. -the beauty you see in others is becasue it lives in you too. -the ugly you see in others lives in you too -give others grace and space to heal themselves. -you can only love others at the capacity that you love yourself. So work everyday to discover, rediscover, remember the beautiful woman you are. -breathe into your belly… chest breathing allows tension and anxiety to live rent free in a space that is yours. -anything that comes and goes is not you. -you have a heart song and if you listen and quiet yourself for long enough, you can hear it. It’s real and I’ve heard it. -connecting and sharing is a beautiful thing, but you don’t have to share everything with everyone. Some things can be just for you. -journal a lot -take everyday routines that are good for you and make it into a piece of sacred ceremonial art and celebrate yourself. Give yourself that queen energy and your self esteem will thank you for it. -stop rushing around. Slow Down and wake up early and take your time. Rushing will make you feel like shit and overwhelm you in ways you can’t see until it’s too late. -know your body parts and how they work. Learn what you like so you don’t rely on someone else to make you feel good. -work your body out with stretching and fitness because you love and honor yourself. Not because you hate it. -if you’re sad, put your phone down. -if you are eating dinner with your family or friends, put your phone down. -if your child is speaking to you, put your phone down. -if your spouse is speaking, put your phone down. -if someone is mad you’re aren’t responding to them fast enough, put your phone down. Back in the day They used to send birds and people on horses to correspond. They can saddle up and know where you live if it’s that important. -stop spraying overly scented chemical fragrances and lotions on your body. That shit is toxic. -take all your clothes off and look at yourself naked for 2 minutes a day and tell yourself you are beautiful outloud. Thank your body. Thank your whole essence. Give yourself a naked hug. -brush your teeth when you are sad. -take a slow shower everyday. Wake up earlier. -drink water and an occasional tea. -don’t stick anything up yourself that isn’t good for you. -tell yourself outloud you are not responsible for your wounding but you are 100% responsible for your healing… everyday until you not only believe it but you know it. -go to church, go to a synagogue, go to a mass, go to a yoga class, sound bowl healing, a philosophy class, go to a sacred place of worship and listen to what they have to say. Stop being the hurt child and be a woman with a learners heart. Be open. Let in what you need and set down what doesn’t fit for you. Don’t block yourself off from valuable information because your narrative is in a traumatic state. You evolve and you are stronger than that. If you don’t like what they say, leave. If you only hear one thing that resonates, be grateful and move on. -don’t generalize men as being the same. You dont want them to do that for your gender. Reciprocity. -be of service to your community. -help children anyway you can. They are the future. -be mindful of lyrics to songs, cinema, podcasts, social media… words are spells and it’s being programmed whether you want it to be or not. If not in alignment make the choice to leave the space or turn it off. -dress for yourself and not for a gaze of someone else’s eye. -travel -let people date whoever they want, love is love. -the first one who yells, has already lost. -learn about flight/fight/freeze/fawn/relax/repair/restore in your nervous system. -you are not valued by what you can produce. -time does heal but it needs your help. -a relaxed, centered woman is powerful. -you are a conduit for the divine. -what you allow yourself to receive you multiple. The light or the darkness. Its your choice. -the truth shall set you free. -say a compliment outloud to someone and don’t be nervous about it. It may mean more to them than you think. -saying you don’t know something is powerful. -saying you’re sorry and meaning it, is powerful. -one day your body will slow down and not be able to keep up with your brain and all its thoughts. Practicing calming your mind down now so you don’t have a stroke or menty b. -speak with intention. -it’s ok to disagree with something. Learning how to have a conversation and not an argument or debate. -don’t talk to your kids like they are grown, they aren’t and it only makes you look childish. -encourage art and creativity. -stop buying belongings, and observe your sense of belonging and see if it correlates. If you are trying to fill the cracks of your heart with dopamine bangers. -commenting that someone is short, tall or skinny is just as rude as calling someone fat. -make the right choice even when no one is around to see. You are doing it for you. -try raw food sometimes. Flavors are bangin… but potentially filled with chemicals and can cause water retention and bloating. -people are assholes because they are hurt. And sometimes you may very well be the asshole. Find the root and heal it. -study emotional intelligence asap. -don’t look at your phone before bed. Let your mind rest. -forgiveness is powerful. -be the friend that can listen and not fix. Learn how to hold space. -you’re never too old for pink hair and glitter nails. -trust yourself. Believe in yourself. Be yourself. Pick one space in your house and organize it for 10 minutes a day. -learn about different cultures. -buy local, even if it’s a little more expensive… big box stores rarely would sponsor your kids baseball team. -if you feel like your plate is too full new opportunities will not want to present themselves. Remain open to what you yearn for. -read books. Lots of them. -walk in the woods. -eat dinner by yourself in public. -stop taking advice from unqualified people. -dance a lot. Move your body intuitively, it will show you what it needs. -you have a choice. -you have a voice. -you are worthy. -you are enough. -you are intuitive. -remember who you are.",
+        "Losing A Half Of Me - Day 369 Edit: This is actually Day 370. Today started off very well. I woke up late and started my day off getting ready and doing a few things. I decided since it was Cinco de Mayo to go to my favorite burrito place since they hand out free shirts. I decided since they open at a certain time I'll get there bright and early in order to not miss out. I didn't really have too much planned for the morning so why not. I just needed to get out as well so this was the perfect excuse. I got a spicy burrito bowl, my mom's fold, and some hot sauce. I couldn't go wrong with this but it will surely be Revenge of the Si(x)th tomorrow. After that I went to the nerd shop to check out some comics and graphic novels amongst other stuff to get ideas on what I should read. I then headed to the bank for a deposit before checking out a few other places. I tried getting the new Mountain Dew from Little Caesars for when my cheat day comes around but they didn't have it and made me feel kind of stupid for asking about it. But that is life and I moved on after trying. I went to the gym for core day pretty early in comparison to my other times. It was a good workout where I didn't see any gym bros. It was too early for them but I felt good in my workout. I believe I'll need to change it up a bit and increase some things. My body is getting stronger and I believe in myself more. Here was my workout routine: 5 minutes of stretching 4 sets of 10 push ups 90 second plank 4 sets of 130 of heel taps 4 sets of 20 of reverse crunches 4 sets of 16 of leg lowers Note: Felt pretty good. 4 sets of 24 of dead bugs 4 sets of 20 of Russian twists 3 sets of 12 when doing 2 different exercises for abs. I tried finding names but couldn't. First was holding a weight above our head (10 lbs for me) and lifting the offset leg fast. I think something like an offset overhead march. Weight in the other hand was 25 pounds. Second was where we held a weight on one side and then swiveled our body inward to get our outer abs. Like a side bend with weight in one hand. 25 pounds in my hand. We did these one after the other as a set on each side. Rested for 2 minutes and then the next set. Captains chair: Set 1: 7 crunches and 7 hanging leg raises Set 2: 7 crunches and 7 hanging leg raises Set 3: 7 crunches and 7 hanging leg raises Torso rotation: Reps of 12 10 8 with weight increasing by 10 each time to be 115 120 and 125 pounds Note: Both sides rotated. Increase weight next time. Assisted ab crunch machine: Reps of 12 10 8 with weight increasing by 5 each time to be 65 70 and 75 pounds 25 minutes of the stair stepper. I upped how fast it went after 10 minutes from 44 steps per minute to 60. 66 minutes on the treadmill at 3.5 mph with an incline of 15 with my backpack to end it off. After the gym concluded I did some shopping before heading home forgetting to grab my medication. I can always do that tomorrow though. I went home and ate my burrito bowl enjoying every last bite. I played some Destiny 2 completing a dungeon I had never done with a stranger. We spent a few hours with him teaching me how to do it through text chat. It was actually a really good time and I loved every part of the dungeon run and its aesthetic. After doing that I decided to watch the next episode of The Last Of Us. I actually really enjoyed its emotional depth and the changes from the video game. Not every aspect is perfect by far but I like a lot of it. I won't spoil anything but I hope people are enjoying it not being a one to one of the video game. I then started watching my favorite streamer and his shenanigans. This is when I started doing silly stuff. I started doing what I view as wrong and ended up doing bad habits. I decided to finish off the popcorn and a snack from the movies the other day. I just did it mindlessly going way over my calorie threshold. I don't know what it was but I just stopped caring. Something about me lately has felt lazy even though I'm trying. I allowed myself to get crazy and I can't do that if I want to change. I want to be better and doing things like that isn't growth. I am changing and I can be better. I ate way too much and I can't accept that is who I am anymore. I thought about punishing myself and taking away my cheat day but I do not think that would do any good. Negative reinforcement never helps in my opinion and punishing myself from taking away happy things may make cravings even worse. What I will chalk this up to is a bad day. And what does a bad day mean? It means there is a tomorrow and tomorrow is always a better version of myself. Because that version has learned something and learned what it doesn't wish to do anymore. I can be strong and work for what I want. This slip up shouldn't define me and I can work harder towards my goals because of it. I can learn and I can be better. That is what tomorrow is for. I apologize to myself for allowing me to do this. Now I will get back on track and work harder and smarter. I'm not going to post what I ate today but will say it was much higher than my caloric limit and it surely won't be like that tomorrow. SBIST was doing a dungeon run in Destiny 2 with a stranger. It was dealing with one of my favorite ideas in the games with the pyramid ships and the lore of the three sisters in the game. I loved the aesthetic and architecture of the area, reminding me of the Vow of the Disciple mostly because it kind of takes place in that area of the game. I loved that the stranger was patient with me and worked very hard to teach me despite not having a microphone. It was hard at times understanding him but he did an amazing job. We were able to two man everything and did it in a reasonable amount of time for the first time, no microphone, two people, and a lot of confusion. I had a lot of fun and felt like there was never a dull moment. We became friends after and I hope we game together soon. Tomorrow is a brand new day. I can do better and I will do better. I will make the most of it and not fail like I feel I did today. Tomorrow I have work which will be nice. Making money is always a good feeling. After work I will be going to the gym for legs which should be awesome as per usual. It will then be time for me to hopefully hand out some cookies to my friends. I should be there at the same time as them so it should be nice to see them. I have their treats and I can't wait for them to try them even if this wasn't my favorite thing I've ever baked. I will make the most out of tomorrow. If I keep saying it, then I can make it true. I can and I WILL. Thank you my conjurers of the bowls that contain my burrito. You truly do make my burrito just a bit healthier and maybe sadder by taking away the tortilla but at least you give me a nice vessel to eat the fillings. Note: Apologies for another late post. I've been very tired and trying to work out something."
+      ],
+      "topic_label": "Topic 0: like, day, don, people",
+      "application_priority": "High Priority - Major User Pain Point"
+    },
+    "1": {
+      "topic_id": 1,
+      "count": 150,
+      "tier": "Tier 1 - Major User Need",
+      "analysis_depth": "comprehensive",
+      "top_words": [
+        "eating",
+        "eat",
+        "diet",
+        "taste",
+        "cut",
+        "fat",
+        "like",
+        "blood",
+        "body",
+        "health"
+      ],
+      "representative_docs": [
+        "I actually tried to eat slow but still ate my meal fast I'm trying to get into the habit of eating slower since I've always been a fast eater. Well today I got on my lunch, had an entire HOUR, and managed to eat my lunch within 10 minutes. I had honey garlic chicken, green beans, rice, and butter bread. Heck it could have been below 10 minutes cause I didn't account for the time it took to heat up my food. All I know is my lunch started at 12, and I got done eating at 12:10, AND I TRIED to eat slower. I had it in my mind to eat slow, yet I still went fast I guess. How does one eat slow? I remember one time I tried to match someone else who was eating slow and I about went crazy. How can I eat slower? What can I do?",
+        "As someone who just graduated with a masters in Nutritional Science, please believe me when I say fasting is not the answer. Edit: gosh, I didn't realize that I would trigger so many people. I was very tired last night so I didn't feel like going into depth. However, I like to rebute diets - including intermittent fasting - (unless they are medically indicated, such as the Mediterranean diet, CCD, or DASH diet). Basically, for most people, following MyPlate for each meal (half of your plate is fruits and vegetables, one quarter lean proteins, one quarter whole grains) is the healthiest way to go. Also, when obtaining nutrition advice, it is important to be able to customize it to the individual; what works for one person may not work for others depending on physiology, anatomy, disease history, sex, age, etc. Dietitians are great at customizing lifestyle eating changes that are doable and maintainable, even if you just have something like fatigue. I implore anyone who would like to learn about nutritional changes to talk to a dietitian - - they have at minimum a bachelors, 1200 hours of supervised practice, and have to sit for a registration exam that only has a 48% first time pass rate. Also, many have masters as it will be required by 2024, hence why I just got mine. Reasons why I said what I said: - alternating between eating and not can cause gas build up/other GI concerns - your blood sugar will drop. Even if you don't have diabetes, this may cause irritability, weakness, and lower your brain functioning. - If can lead to weight gain because of overeating when you break fast. Also, because your body is afraid that you're going to starve it, it lowers the basal metabolic rate; therefore, you don't burn as many calories when you are sleeping, relaxing. - Long term, IF can lead to nutritional deficiencies. This is because with regular (3-4) BALANCED meals and snacks (1-2), you are able to eat a wider range of nutrients. If you are restricting the times you are eating, even if you eat larger meals during the time, your variety is limited. My sources: The acadamy of nutrition and dietetic's peer reviewed magazine:",
+        "[Advice] Sugar addiction was one of the biggest reasons I was unable to achieve the goals I had and get disciplined. Luckily, I kicked my sugar addiction, resulting in losing over 15 pounds of fat and putting on significant muscle. I want to share what worked for me in kicking sugar addiction. **Introduction** We all understand that sugar is unhealthy. Recently, the public has become more aware that sugar may be more dangerous than it was initially advertised, with many believing that sugar, not fat, is the primary cause of the western rise in obesity, heart disease, diabetes, and even cancer. The book “How Not to Die” by Dr. Michael Greger, provides countless examples of how sugar causes all kinds of chronic illness over time and affects energy, mood, and mental health. What many don’t understand however, is how to kick sugar. In fact, sugar appears in all kinds of foods we did not expect it to be present in, including pasta sauce, yogurt, and even salsa. Sugar is actually in around 74% of the foods commonly found in grocery stores (1). Furthermore, many people are led to believe that calorie counting is more important than just watching what you eat, so we have a large amount of people who are starving themselves on a high carb diet hoping they can lose a couple of pounds and then go back to their old diet high in sugar and processed foods. Nutrition is a constantly changing subject, with many different groups touting their diets (think keto, vegan, and paleo etc) as the best with studies that would support them. However, they all come to the conclusion that sugar is bad. The only issue is how to really get rid of it from our diets. It doesn’t help that sugar addiction is a real thing, similar to drug addiction (2). Furthermore, the methods many people use to conquer sugar addiction are completely ineffective and end up leaving them demoralized. As a result, the average person is left confused and demoralized in removing the harmful substance from their lifestyle. **My Story** Growing up, chocolate was my best friend. I distinctly remember all of the times my mother would point out that I’d go through a pack of Milanos within 2 or 3 days. Whenever we went out to eat, a chocolatey dessert was the norm, and not getting some sort of chocolatey cereal like cocoa-puffs in the morning was an anomaly. This continued on until I was 18, when I realized that my diet had made me unhealthy, unathletic, hampered my mental performance, and would put me at increased risk of all kinds of diseases in the future. Around this time was also when I decided I would get fit through weight lifting, so I realized that I would have to cut sugar out of my diet. Little did I realize that this would be one of the most difficult tasks of my life, more difficult than college applications or trying to cram AP economics into two weeks. During the summer after my graduation from high school, I started to lift weights and do sprints. Along with increased exercise, I became much more mindful of my diet, realizing how much sugar I was ingesting. Unfortunately, I wasn’t able to kick my sugar habit during the summer, since we almost always had a jar of Nutella at home (no matter what they tell you, Nutella is unhealthy. Period). I went off to college, and things just got worse. I didn’t expect there to be free and incredibly unhealthy food offered basically everywhere at college. Having a meal plan where I basically had unlimited access to the school bakery also didn’t help. As a result, my sugar addiction actually got worse. The peak of my sugar addiction was when I was eating at least one double chocolate muffin every day from the bakery. While I wasn’t gaining a significant amount of fat due to the increased amount of time I spent lifting weights every week, I could see that I was eating an unhealthy diet, and the fat that I wanted to lose was not going away. Furthermore, the high amounts of sugar were influencing my mood and academic performance. Early during my second semester of college, I realized that all of the methods that I was using didn’t work for getting over the sugar addiction, so decided I would put a bit more effort into cutting the unhealthy substance out of my life. I began to watch videos about sugar’s negative effects and created set meal plans from which I was not to deviate from. It took about 2 more months until I was able to say I was truly free from my addiction, when I actually managed to refuse free cookies on a non-cheat day. Meanwhile, the results of cutting out sugar from my diet were astounding. During the summer before I started college, I was around 25% bodyfat at 150 lbs of bodyweight. As a result of effective dieting, reducing sugar intake, and intense weightlifting, I ended up at about 14% bodyfat at 163 lbs of bodyweight at the end of my first year of college. I had visibly lost a fair amount of fat, particularly the dangerous visceral fat. The effects of my mental health were astounding as well. I avoided the awful crashes that result from sugar highs that would make me tired. Also, my mood greatly improved (also due to meditation, positive journaling, and other healthy habits). These improvements were so pronounced that many of my friends and family members noticed. While I cannot attribute all of these positive effects solely to cutting out sugar from my diet, the reduction of sugar intake was one of the most important factors in bringing about these changes. I want to discuss how I managed to cut sugar out of my diet by first talking about what I did that didn’t work (and what most people who attempt to get healthy do) and contrast it to what I did that actually did end up working (which is what most people DON’T do). **What Didn’t Work** 1. **Allowing a small amount daily**: When I was just starting to cut sugar out of my diet, I found it really hard to decide to cut it out completely for 6 out of 7 days a week (cheat days were absolutely non-negotiable at the time). So what I did instead was permit myself a “small” amount everyday. What did “small” mean? I honestly couldn’t tell you back then, but I intended for it to mean eating enough to put the sugary taste on my tongue and nothing more. Except this didn’t work - the moment I got the small piece of sugary food in my mouth, I started to rationalize eating even more sugar. Pretty quickly, a one eighth piece of a donut turned into a full donut, and I was left with regret and shame over my lack of self control. The reason allowing myself a small amount didn’t work is that eating a small amount triggers my desire for eating more of that sugary food and also begins to cause a dopamine rush. At that point, logic shuts down and I continue to feast on the sugar. Another reason this method didn’t work is that the “small” amount can be fudged. I made the mistake of not directly quantifying the amount of “small”. Was I thinking 5 grams or 15 grams? Who knew? So I allowed myself to go overboard relatively quickly. Even if you do manage to quantify your limits, it’s very easy to say “17 is close to 15, but I can also round it up to 20 without there being much of a difference”. 2. **Calling it a “diet”**: If you really want to avoid the long term deleterious effects of sugar on your lifestyle, you won’t be going on a temporary diet, which is a popular concept in the Western health sphere. If you’re cutting out sugar, you need to recognize that you are making a lifestyle change, not some temporary experiment. Another reason I initially failed in kicking my sugar habit was because, subconsciously, I wasn’t really making an effort change my lifestyle. When people asked me how long I would be cutting sugar out of my diet, I would tell them that it would be until I lost a predetermined amount of weight. Instead of treating sugar as an enemy to my health like it rightfully is, I was treating sugar as a friend who I was taking a break in hanging out with. Furthermore, if I actually wanted to keep that weight that I lost off, I would need to stay away from sugar! My attitude towards cutting sugar was incorrect right from the beginning. Most people, when they are attempting to kick a sugar habit, go in with the idea that they are depriving themselves. Unfortunately, this kind of a mentality is a perfect way to permit slip ups. I’ll talk more about mentality and mentality changes in a bit. 3. **“Break periods” of no restraint**: There were some weekends or weeks where I was on vacation or hanging out with friends for an extended period of time in which I would allow my sugar consumption to be uncontrolled, returning me to my old baseline level of sugar consumption. “It’s alright, I’ll get back to the diet when this weekend is over”, I’d tell myself. Unfortunately, this was almost never the case. Upon returning from my break, having eaten well over 80g of sugar most days, I found that the sugar cravings were even more intense than before I had left for the break. As a result, I would end up feeling like shit for a day or two and then binging, seeing myself back at the starting line of this lifestyle change. When you allow yourself to eat an unrestrained amount of sugar for a day or more, you are erasing all of the work you do in kicking your sugar habit. For me, drinking soda for dinner and then topping it all off with 3 slices of chocolate cake halted my reset and just left me feeling guilty over the next few days. In practice, you need to moderate yourself even when you allow yourself to have the occasional cheat meal. If you eat a cinnamon roll on one day, there should be absolutely no way you allow yourself to get ice cream, even if it’s your cheat day. 4. **Only cutting out sugar**: When you take something out of your diet, you’ll be decreasing the amount of net calories that you eat, which will make you feel hungrier than usual. I realized this the hard way; whenever I denied myself a snack like a muffin, I wasn’t thinking about what I could replace that piece of food with. As a result, I ended up hungry and craving sugar, two things which are sure to make you fail. In most of these situations, I would end up deciding not to eat and just coming back to the sugary food later on since my mind was focused on nothing else. While replacing sugary foods with something else won’t be a magic bullet initially, since cravings will be fairly intense starting out, creating a diet plan that allows for other foods you enjoy will help ease the transition. In my case, I switched to a diet very high in fat and protein, which gave me more reasons to eat foods high in cheese and eggs, two of my other favorite foods. **What Did Work** 1. **Throwing out all of the sugar from my house**: Willpower is a finite resource, as studies have shown. So why in the world do people who are trying to improve their health by cutting out sugar still allow sugary foods inside the house? Think of it this way, would you rather use a bit of willpower to throw out the tub of ice cream in your freezer or use a lot of willpower to stop yourself from eating from that tub of ice cream everyday when you come back from work, where you’re already tired and are more likely to give yourself an excuse to binge? 75% of my sugar snacking out of school came from food we had stored within the house. When I sat down to reevaluate how I was doing with my challenge of cutting sugar out of my diet, I realized that I should focus preventing snacking inside the house first. So my family proceeded to examine every piece of food in the house, checking nutrition label after nutrition label. If the product had any sugar and wasn’t a piece of fruit/dark chocolate, it was thrown out. Wasteful? Perhaps. Effective? Definitely. I’m sure we threw away over $100 worth of food that had been stored up, with old favorites such a Milanos ending up in the trash bin. The first week of going without sugar was quite difficult and I really began to feel the withdrawal effects of not eating sugar then, a sign that all my previous attempts were half-assed and ineffective. Whenever cravings hit, I had nowhere to look for my hit of sugar, so I would be forced to do something else to take my mind off. The initial few days provided me with headaches, energy drops, and a more irritable mood. However, I realized that the sugar cravings that are so common go away fairly quickly as long as you make an effort to not give in to them. 2. **Using the 5 second rule at grocery stores/restaurants**: Inevitably, I had to go back to the grocery store. Armed with a new grocery list that I made by researching foods low in sugar and processed calories, I was ready to continue going without sugar. However, I often faced times at the grocery store where I was tempted to buy a sugary piece of food since I rationalized that having a bit of sugar left at home won’t be a problem. This is where the 5 second rule came into handy. The 5 second rule is a requirement that if I end up having some sort of sugary food in my hands, ready to be put into my cart, I immediately put it back on the shelf and start walking away briskly for 5 seconds. Yes, this sounds ridiculous, but getting out of the situation ensures that piece of food didn’t end up in your my cart. Similarly, if I’m at a store like Starbucks and it looks like I’m about to buy a brownie or similar piece of food, I give myself 5 seconds to get out of the store. In this case, I would look like an idiot walking back in and then performing the 5 second rule again, so I’ve got a good motivator to not go back in. There were some instances where I ended up buying a piece of sugary food. In these cases, I would give myself 5 seconds to find the nearest trash can and throw it away. Once again, it is wasteful, but I had to be ruthless when cutting out sugar. The main reason the 5 second rule worked is that 5 seconds wasn’t enough time for me to rationalize eating the sugar when I was already in action. The trick is to be absolutely brutal with carrying it out. It almost requires you to shut your brain off for 5 seconds to ensure you get away from the sugar. 3. **Continued education about sugar and its effects**: One of the best ways to motivate people not to eat sugar is to describe the harmful effects of eating sugar. While I already knew that eating it was bad, I chose to go even further and memorize facts and statistics about eating sugar and learning more about the addictive substance. First, I started reading books about health, not directly related to sugar. One of my favorite books that I read in the health category was “Brain Maker” by Dr. David Perlmutter. Through it, I learned that sugar consumption harms the existence of healthy gut bacteria, which can cause problems including weight gain and restlessness. Every book that I read on the topic further gave me reasons not to eat sugar and strengthened my resolve to make the lifestyle change. Next, I started to follow a Youtube channel called “What I’ve Learned”. The channel features videos about diet and health among other topics. Watching those videos, some multiple times, provided me more knowledge on the topic. Furthermore, the other videos on the channel, which focus primarily on productivity and health, oriented my mind in a way such that I was thinking more about how I could improve my life. I’d highly recommend everybody check the channel out. 4. **Rewiring my thought process regarding sugar**: Perhaps the most important thing that I did when cutting out sugar was to change the way I thought about food, my health, and short term gratification. Earlier I mentioned that I thought that I was punishing myself in a way by calling cutting out sugar a “diet” instead of a lifestyle change. When I changed my mindset from depriving myself from sugar to freeing myself of its negative consequences and improving my health, I was better able to stop rationalizing eating sugar in tough situations. I was able to tell myself that I am not depriving myself of sugar but keeping myself safe from all kinds of chronic disease, energy drops, and mental anguish. Just visualizing those negative experiences began to change the way I saw sugary foods. Next, I internalized that the improvements in lifestyle are all worth it in exchange for the initial suffering from withdrawal effects. By visualizing a better future where I had overcome a mental fog and lost a fair amount of weight, I gave myself a reason to get through the withdrawal headaches and irritability. One of the most important thought processes I had going was to paint sugar as an enemy to many of my other long term goals. For example, I knew that eating sugar frequently is the best way to drop my productivity and mental acuity, which would negatively affect my grades and personal projects. Therefore, I made it clear that if I wanted to do well in school, sugar had to be avoided. Another example would be that sugar makes my powerlifting practice worse since it takes away a lot of my focus from lifting the weights. Since my progress in powerlifting was directly tied to my overall health, keeping away from sugar to improve my lifts became one of my highest priorities. **Conclusion** If there’s one thing that I hope readers will understand, it’s that healthiness is a lifestyle, not some temporary diet to do until you hit a set weight goal, after which you return to your previous unhealthy diet that made you overweight in the first place. I didn’t really understand this when I started out with my goal of attempting to cut sugar and struggled for a difficult 9 months in overcoming sugar addiction, often having thoughts of giving up. It by no means is an easy task to accomplish, but now that I am experiencing the positive effects of improving my diet, I can say that it is completely worth it. The best part of my new diet is that I still allow myself to eat sugary foods at most once a week. By eating less chocolate cake, I am actually able to appreciate the food better. Other foods also begin to have more flavor; I now have a greater taste for many fruits and even vegetables such as spinach. I would encourage anybody who would like to improve their lifestyle and decrease their chances of chronic illness in the future to at least try a month without sugar. If you have any questions/have comments on the article, please feel free to private message me. If you find this kind of material interesting, I make videos on these topics on my channel: **Citations** 1. 2."
+      ],
+      "topic_label": "Topic 1: eating, eat, diet, taste",
+      "application_priority": "Low Priority - Niche User Interest"
+    },
+    "2": {
+      "topic_id": 2,
+      "count": 104,
+      "tier": "Tier 1 - Major User Need",
+      "analysis_depth": "comprehensive",
+      "top_words": [
+        "age",
+        "young",
+        "life",
+        "old",
+        "perspective",
+        "years",
+        "year",
+        "30s",
+        "year old",
+        "kids"
+      ],
+      "representative_docs": [
+        "I'm 42 and need to put a little of this perspective from the perspective of a 60 year old. I'll wish I was my age now.",
+        "Happy birthday. My greatest advice would be the age old “consistency is key”. Whatever you think would improve your life, do it to the best of your ability and as consistently as possible. And don’t fall for the sunken cost fallacy, no matter how much time you think you’ve wasted, you’re still young and have a whole life to live. I believe in you.",
+        "like others have said, 26 feels old when you’re 26, but feels young when you’re 36. i’ll say a couple things. first, things in your life can change momentum really quickly. faster than you’d expect, but not as fast as you’d like. when i was 25, i was depressed. i hated my job. i graduated 4 years prior and was working at dead end jobs, chalking up my future to be a manager of a retail space or something. for some reason, i started getting into a hobby. it was drawing, something i hadn’t done since i was in middle school. i eventually became obsessed, drawing every day. honing this one skill gave me the confidence to look up and see other doors open. i could follow a few different paths. i picked one and just trusted that i would continue doing it no matter what. and that’s what i’ve been doing for ten years. i turned 26, how old you are now, when i began on that path. it’s for sure not too late now. and if you start now, i can’t imagine where you’ll be in ten years. i hope this helps. good luck."
+      ],
+      "topic_label": "Topic 2: age, young, life, old",
+      "application_priority": "Low Priority - Niche User Interest"
+    },
+    "3": {
+      "topic_id": 3,
+      "count": 85,
+      "tier": "Tier 1 - Major User Need",
+      "analysis_depth": "comprehensive",
+      "top_words": [
+        "money",
+        "benefits",
+        "people",
+        "brain",
+        "success",
+        "great",
+        "showering",
+        "better",
+        "list",
+        "habits"
+      ],
+      "representative_docs": [
+        "**Investment Mindset:** Earn $100 Invest $100 in skills/assets that will make it grow to $1,000 Invest $1000 in skills/assets that will make it grow to $10,000 Rinse and Repeat. People who are financially successful have this kind of mindset and this is the reason why their wealth multiplies at astonishing rate. They re-invest and the wealth keeps on accumulating. Money starts working for them. **Think of habits in same way:** Invest your time in habits which give you amazing returns: For example, Exercise is keystone habit which effects every area of your life. Exercise -> Healthier -> Look better -> Feel more confident -> Socialize better Exercise -> Endorphins -> Reduces Stress -> Feel better -> More productivity Exercise -> Good night sleep -> Mind -> Focus -> Decision making With all the benefits you get from this one habit, you can invest all that extra happiness, energy etc. into another habit like Meditation. It is another keystone habit. Your benefits multiply (just like how money multiplies when you keep on re-investing). You keep on leading better quality of life as time goes by. But earning that first $1000 is hard, right? Yes it is. However,it gets easier. With regards to habits, You start with adoption of one keystone habit which is extremely difficult but once it becomes automatic, the cycle of compounded returns start. Benefits keep on multiplying from the second habit onwards,",
+        "[Advice] 3 Life Changing Brain Hacks to Build a Great Life *Did you know that Warren Buffet used to* *space out* *and not be productive in the morning on purpose?* Yeah, you thought he’d look at charts all day to make money 24/7. But no, he does exactly what we’re encouraged not to do. So, what’s up with that? (No, it’s not because he’s rich. He’s done this throughout his career) However, this post is not about copying quirky habits of successful people. Everyone has a different set of issues and bad habits to be dealt with. Therefore, there’s no such thing as the BEST HABIT OF THEM ALL to yield the greatest results. **...or, is there?** While it’s true that different habits work for different people, there are few universal and yet, effective **brain hacks** that you might not have known. Today, we’re sharing some of the easiest, but rewarding brain hacks to nudge your life in a direction that you want. And maybe, give you that small edge. Let's look at three categories where these brain hacks can be effective: Brain health, Automation, and the good old PRIORITIZATION. Here we go. # Methods **1. Space out** Have you ever spaced out and your teacher, boss, or your parents called you out on it? Well, get ready to do that again for 10-15 minutes a day. If you have time, do it for 30 minutes. According to science, it’s extremely beneficial for your brain health. * Helps brain to rest. * Helps brain to consolidate knowledge. * Helps brain to create patterns between new knowledge and information. Even Harvard admitted that zoning out can make you more productive. So next time someone scolds you for looking outside the window, tell them- “I’m forming brilliant patterns, hiding in my subconscious.” **2. Automation: The night before wins the morning** Still having a hard time waking up? Well, have you heard of this phrase: *Win the Morning, Win the day* It sounds like one of those motivational speeches on YouTube. However true this might be, it’s never easy to truly win the morning. One reason is that your brain is not usually ready for the uphill battle. So, instead of setting up millions of alarms, automate the tasks as much as you can and make it easier for you. **Prepare your clothes and ‘things’** for tomorrow morning before going to sleep. For example, if you want to play basketball in the morning: * Set out clothes to wear on the table. * Leave basketball shoes and ball next to the door. * Take a shower before going to sleep. * Set up an alarm next to your clothes. By creating a step by step ritual, your brain will pass the information through the Reticular Activating System in the brain and deem it important enough to act. Thus, increasing the probability of success. **3.Replace the to-do list with ‘Priority List’** To-do lists don’t work. And Harvard agrees, again. Because you overload yourself with so much work to be done, you often delay some for tomorrow, stress out, and feel reluctant to go back to them. Sounds familiar? Here’s the good news. Instead of doing a to-do list, do a **priority list**. Basically, after writing down every item on your mind, assign them a priority. Depending on your style, you could assess points (1-5), a scale of importance (low-mid-high), and even days to accomplish them throughout the week. For example, do you have to do the laundry today? You can do them on Sunday. By setting a priority, you’re able to feel calm and ignore tasks that don’t require your immediate attention. You can use tools like Trello to utilize the Kanban method and set priorities while visualizing the workflow. Remember, you don’t have to tackle everything on your list. If the list causes anxiety, hide it from sight and create new ones that represent what’s important for today. ## Brain Health – The Night Before – Priority True life is lived when tiny changes occur. - Leo Tolstoy You don’t need to read a book a day. You don’t need to wake up at 4:00 am in the morning. You don't need to take cold showers every day. Those are drastic changes that are more difficult than we give credit for. Just doing simple things that affect your brain health, automation, and priorities, life can improve incrementally. And incremental improvements are all you need. *Here’s the recap* * Take care of your brain by zoning out. * Automate your process by setting things up the night before. * Use a priority list with Kanban(optional) instead of to-do lists. With the above **3 life-changing, but simple brain hacks**, you’ll be able to start building a great life. PS: If you need help with breaking bad habits, join our FREE neuroscience app, [Synapse]( We'll keep you updated with free brain hacks and real-life solutions.",
+        "[Advice] I love looking into the habits of insanely rich people to see how they are different. These are 6 that I think are highly impactful. Regular people and billionaires alike have routines and habits that guide them through their day. Some of these habits are energizing, like exercising, and others are de-energizing, like getting very little sleep. We as people have control over our habits and routines, and therefore have control over who we become. While these habits may not directly correlate to riches, mastering them will have a great impact on your daily well being. After all, with infinite energy and motivation, we all have it in us to accomplish great things. I hope this helps. Original article: [Here]( **1. Showering** Many have heard the story, but for those who haven't: In 2015 Elon Musk did a reddit AMA and they asked him, “What daily habit do you think has the largest positive impact on your life?” To which he simply replied -- Showering The first thing you might think is that he is either joking, or that he really puts a lot of importance on being clean. But there may be more to it than that. For starters, taking care of your personal appearance can make you feel better and perform better. Dressing the part is both psychologically motivating and helps put you into a productive routine. Another powerful and non obvious benefit of showering has to do with our brains. Why is it that the best thinking happens in the shower? One possibility is that when we shower we rid ourselves of all distractions and get really relaxed. Think about it, what's more relaxing than a shower? Being relaxed is great for creative new ideas, and not having a cellphone or people to distract you makes it the perfect place to brainstorm. Key Benefits - If you look good you feel good. And if you feel good you perform great. - Showering is the ideal place to brainstorm and come up with creative ideas. **2. Reading** You’ve definitely heard this one before but it absolutely must be included. Reading is a habit that creates millionaires and billionaires, there's little debate about it. Many of the world's richest people all love to read, and have ludicrous histories of reading crazy amounts in short periods of time. Warren Buffet used to read up to 500 financial pages a day, and Elon used to spend up to 10 hours a day reading. Warren Buffet gave us some great advice when he said “Knowledge accumulates like compound interest.” If that's the case, it makes sense why many rich people are avid readers. They are better able to understand other perspectives, have more knowledge, and can process information faster. Key Benefits - Accumulated knowledge leads to better ideas, more situational awareness, and better conversations. - Reading can be easy. Start by reading one paragraph per day and then continue your day. Trust me, by day four you will WANT to read more. **3. Creating and Designing** Most of the world's billionaires share one thing in common and that is CREATING! These are men and women just like you, but with a slightly different profession. Many of them created some amazing product or service, but at one point it was nothing but an idea. In fact, many of the end products end up varying greatly from their original ideas. Creating and designing gives you experience that can't be replicated with just learning. You learn to be artistic, analytical, and how to adapt. If you’re an artist and you paint, you learn from every canvas. If you’re an entrepreneur, you learn from every feature, product, and customer. If you’re an influencer or content creator you’ll learn how to create better content. You learn how to help people more and how to deliver more value. Key Benefits - You gain unique and highly valuable skills. - You get better and better at those skills much faster. **4. Thinking outside the box** This applies to more than just billionaires. To be successful in general you have to be able to think outside of the box. Billionaires were able to accumulate so much wealth because they did two things very well. 1. They wanted something and figured others would want it too. 2. They continuously came up with solutions until they were successful. Thinking outside is something that is hard to practice. Some people are natural problem solvers and are able to easily comb through problems with unique solutions. Most people are not this way. If you want to get better at something you need to practice. Find problems and solve them and your problem solving ability will get better. It's that simple. Key Benefits - You are able to solve much more complex problems. - You are able to adapt faster to changes. **5. Holding a great sleep schedule** Sleep can absolutely make you or break you. When you’re tired you’re unable to function optimally which makes you utterly useless for the day. Going to sleep at the same time and waking up at the same time is KEY for success. Being energized may be one of the single most important factors to your success. It's much harder to be motivated when you’re tired. Getting into a good sleep schedule can be difficult but can be extremely rewarding, especially for people who aren't “good” sleepers or have insomnia. There's two ways to go about it. You can either go to sleep really late and wake up at the desired time, and then the next day you’ll be out like a rock early. Option two is less intense, and involves cutting back your sleep and wake time by 15 minutes every day or other day. Key Benefits - You’ll be far more energized and have high sleep quality . - You’ll fall asleep faster and wake up earlier. **6. Exercise and Diet** You knew it'd be on here! Exercise! For many of us its either the reason we live or the bane of our existence. Either way, exercise and a good diet are right under sleep in terms of importance. This comes back to one irrefutable fact: You need energy to do things. Exercise actually gives you more energy over time and coupling it with a good diet will have you feeling great throughout the day. It may be hard to startup a new workout routine, a thousand excuses may run through your mind, but don't think about the difficulty or worry before anything has even happened. Exercise doesn't have to be something you hate. Just schedule half an hour each day where you really move and get active. You’ll start to feel accustomed and make progress in no time. Key Benefits - Even more energy, and even better sleep. - Feeling better throughout the day. Thank you for reading! I hope it helped you!"
+      ],
+      "topic_label": "Topic 3: money, benefits, people, brain",
+      "application_priority": "Low Priority - Niche User Interest"
+    },
+    "4": {
+      "topic_id": 4,
+      "count": 59,
+      "tier": "Tier 1 - Major User Need",
+      "analysis_depth": "comprehensive",
+      "top_words": [
+        "shower",
+        "water",
+        "showers",
+        "cold",
+        "morning",
+        "drink",
+        "day",
+        "showering",
+        "hot",
+        "drinking"
+      ],
+      "representative_docs": [
+        "A couple questions from someone who hasn’t showered in the morning for years - when do you morning shower folks exercise? Before your shower in the morning? Does that then defeat the purpose of a cold shower? Or do you shower in the evening as well after exercising?",
+        ">but only one is a “full” shower My roommate would beg to differ.",
+        "[ADVICE] Why Morning Showers are Important! Let me just start by saying that I start almost every morning with a nice cold shower. and although you don't need to do as I do, you will miss out on some of the amazing benefits of a cold shower alertness strenghtens immune system heart rate increase stimulates deep breathing (lowering CO2 levels in the body) A cold shower is ideal because it activates the sympathetic nervous system, which is responsible for fight and flight. As long as you don't panic and start running you'll be fine. Cold shower helps you become more alert and clear. In studies it has been shown that the body eventually habituates to cold exposure and the parasympathetic nervous system takes over soon after - which is responsible for rest and digestion. But look I'm not saying you 'need' to take a cold shower, it's not necessary, but it helps. A cool shower is just as good, as long as it gets you out of bed and moving. Even a warm shower... \"What about hot shower?\" Well I'm against that because hot showers should be saved for the night, since the hotness will active the parasympathetic nervous system (responsible for rest and digestion), and hot showers tend to dry out your skin and cause lots of other problems. I don't just do it for the effects, but I also do it for the hygiene. A nice shower in the morning will make you feel fresh and clean. If you wake up and start your day without a shower you will feel like a filthy animal... \"but TK am I not already a filthy animal?\" well yes that s what you are, but you might as well 'pretend' and make yourself feel less like a filthy animal. There's also this thing called momentum, it's starts early in the day, and if you miss it, you can't get on another \"momentum train\" chu chu. Showering in the morning will give you momentum because you started the day by overcoming some challenge. so why not overcome a few more, and a few more after that, you did one thing well, so maybe you can continue, go for a walk, do a bit of stretching, eat some breakfast... I would recommend that after waking up, go straight into the shower and let the water run over you for a minute or two so that way you wake up and can start your day with some momentum. Not taking a shower in the morning will give it a lazy start and that will most likely follow you throughout the day. It's such a simple thing you can implement, so why not just do it? Even Elon Musk says it's important to shower in the morning! Sympathetic nervous system Parasympathetic nervous system Cold shower versus hot shower which one is better?"
+      ],
+      "topic_label": "Topic 4: shower, water, showers, cold",
+      "application_priority": "Low Priority - Niche User Interest"
+    },
+    "5": {
+      "topic_id": 5,
+      "count": 58,
+      "tier": "Tier 1 - Major User Need",
+      "analysis_depth": "comprehensive",
+      "top_words": [
+        "posts",
+        "post",
+        "self help",
+        "sub",
+        "comments",
+        "method",
+        "self",
+        "blog",
+        "help",
+        "reddit"
+      ],
+      "representative_docs": [
+        "Appreciate the post, if only for the fact that with all this distilled wisdom, we surely know \"how\". It's time to put to use what we read in self-help books and articles. If you want to share another link, I recommend doing so in the comments. The spam-filter does not like posts with more than one link.",
+        "I'm a bot, *bleep*, *bloop*. Someone has linked to this thread from another place on reddit: - [] [NickPlusYou's Results Lists in \"All the top posts of the top self-help subreddits of all time in one cheatsheet\" \\[xpost from r\\/getdisciplined\\]]( - [] [\\[Method\\] I summarized all the top posts of the top self-help subreddits of all time into a cheatsheet.]( - [] [\\[getdisciplined\\] 04\\/05\\/19 - \"\\[Method\\] I summarized all the top posts of the top self-help subreddits of all time into a cheatsheet.\" by \\/u\\/NickPlusYou]( - [] [\\[Method\\] I summarized all the top posts of the top self-help subreddits of all time into a cheatsheet.]( - [] [\\[Method\\] I summarized all the top posts of the top self-help subreddits of all time into a cheatsheet.]( - [] [\\[Method\\] I summarized all the top posts of the top self-help subreddits of all time into a cheatsheet.]( - [] [\\[Method\\] I summarized all the top posts of the top self-help subreddits of all time into a cheatsheet.]( - [] [\\[Method\\] u\\/NickPlusYou summarized all the top posts of the top self-help subreddits of all time into a cheatsheet.]( - [] [\\[Method\\] I summarized all the top posts of the top self-help subreddits of all time into a cheatsheet.]( - [] [\\[Method\\] I summarized all the top posts of the top self-help subreddits of all time into a cheatsheet.]( &nbsp;*^(If you follow any of the above links, please respect the rules of reddit and don't vote in the other threads.) ^\\([Info]() ^/ ^[Contact](/message/compose?to=))*",
+        "Since the reason these posts exist is that it is a prevalent problem that shouldn't be ignored and the fact that there are plenty of posts discussing it on this sub, I suggest we find some mechanism to redirect these posts to the wiki where helpful posts could be listed or where we could point to more relevant subreddits. Make it a rule to check this wiki before posting these questions. Looking at the posts, its true there are a lot of them. Since the issue has already been addressed several times, I think we would definitely gain from letting other topics surface."
+      ],
+      "topic_label": "Topic 5: posts, post, self help, sub",
+      "application_priority": "Medium Priority - Common User Need"
+    },
+    "6": {
+      "topic_id": 6,
+      "count": 56,
+      "tier": "Tier 1 - Major User Need",
+      "analysis_depth": "comprehensive",
+      "top_words": [
+        "cold",
+        "showers",
+        "cold showers",
+        "shower",
+        "water",
+        "discomfort",
+        "hot",
+        "seconds",
+        "willpower",
+        "start"
+      ],
+      "representative_docs": [
+        "Well, now that I know what you thought, I apologize for being \"one of those redditors\". Here's why I take cold showers: Discipline,Acne, and Energy. I am a lazy bitch, taking cold showers has been a challenge. Ever since I started taking cold showers, I felt like I could push myself more, my acne got better(cold water closes the pores, so you're pores won't be filled with weird things), and I felt more energetic(it kinda shocks you, wakes you up). Once again, I apologize for being naive, should've thought about your POV, my bad! If you haven't taken cold showers before, please try them out. :)",
+        "Cold showers are a great service to vitalizing yourself (or, myself, anyway), but for those of us who aren't polar bear swimmers and can't take the instant cold, starting the shower warm then working up to cold works too.",
+        "Why Freezing Every Morning Was the Best Decision I Made in 2024 spent a month researching and forcing myself to take cold showers every day. ngl, it sounded like a stupid internet trend at first, but now i’m convinced it’s one of the easiest ways to build discipline and reset your brain. here’s what i learned (with actual science to back it up): **Why Cold showers are amazing** * seriously, nothing wakes you up faster than freezing water. apparently, cold showers make your body release adrenaline, which is why you go from \"zombie mode\" to \"ready to fight a bear in like 10 seconds. >*A study in Medical Hypotheses says cold showers release norepinephrine, which is this brain chemical that makes you more alert and less blah.* * after a cold shower, my brain feels calm. It's not like magic or anything, but a study from 2007 says cold water can lower your stress hormone (cortisol). I feel it. * I don't know how it works, but doing something so uncomfortable first thing in the morning makes the rest of my day feel easier. * if you can stand in the freezing water for 3 minutes, you can pretty much do anything. **How to survive the freezing hell** * trust me, don't jump strait into ice-cold water unless you wanna hate your life. start with 10-15 seconds at the end of a warm shower and slowly add more time every day. * when the cold hits, your brain is gonna scream \"Get out!\" but just use this method called box breathing, (inhale for 4 secs, hold for 4, exhale for 4.) Trust me. It works. * the more consistent you are, the less it sucks. i missed one day and felt like a slug again. don't miss a day. **More research** >*A 2008 study says cold showers make your brain release beta-endorphines, which are like feel-good chemicals that make you happy. it's like a natural antidepressant.* >*PLOS ONE did a study and found people who took cold showers got sick less often.* > *Cold water also improves circulation and reduces inflammation, according to actual doctors. so yeah, it's good for your body too.* **Read this part** wake the fuck up and stop taking the easy way out. life isn't gonna hand you discipline on a silver platter, and cold showers are the ultimate test to prove you can handle discomfort. If you can't stand just 2 minutes of freezing water, how are you gonna handle real challenges? cold showers aren't just about waking up, they're about rewiring your brain to stop being weak and start doing hard stuff. stop overthinking it, stop making excuses, and just do it. step into the freezing water, show yourself you're tougher than you think. two weeks of this, and you'll walk out feeling like a new person. no more complaining. no more laziness. just raw, discipline. Are you really going to say no just because it's fucking uncomfortable?"
+      ],
+      "topic_label": "Topic 6: cold, showers, cold showers, shower",
+      "application_priority": "Medium Priority - Common User Need"
+    },
+    "7": {
+      "topic_id": 7,
+      "count": 48,
+      "tier": "Tier 2 - Secondary User Need",
+      "analysis_depth": "moderate",
+      "top_words": [
+        "book",
+        "man",
+        "podcast",
+        "search",
+        "anybody",
+        "link",
+        "lot",
+        "meaning",
+        "probably",
+        "heard"
+      ],
+      "representative_docs": [
+        "No one escapes tragedies in life. He had unknowingly developed a physical dependency on the sedative clonazepam, prescribed by a family doctor to treat his severe autoimmune reaction to food. His dose was allegedly increased after his wife was diagnosed with kidney cancer. Clonazepam is a benzodiazepine. A simple search will reveal the effects of becoming dependent on it, and the horrifying effects of suicidal tendencies. He was put in a medical-induced coma in Russia to help him battle the dependency. He is not back to normal and writing a new book. His books are heavily backed by science and research and have helped a lot of people. His political opinions may be controversial to some, but he has very practical advice on learning how to live your life and become stronger - a trait which was passed on to his daughter Mikhaila. I'd totally recommend Jordan Peterson. He has brilliant advice without the \"frills\" and cuts the crap.",
+        ">A man’s search for meaning Am I the only one not impacted by this book? It's opinions are refreshing, a great book no doubt, but not very practical imo.",
+        "This is why I recommend the book, \"Man's Search for Meaning\" by Viktor Frankl <3"
+      ],
+      "topic_label": "Topic 7: book, man, podcast, search",
+      "application_priority": "Low Priority - Niche User Interest"
+    },
+    "8": {
+      "topic_id": 8,
+      "count": 41,
+      "tier": "Tier 2 - Secondary User Need",
+      "analysis_depth": "moderate",
+      "top_words": [
+        "teeth",
+        "brush",
+        "brush teeth",
+        "care",
+        "motivation",
+        "don",
+        "habit",
+        "water",
+        "problem",
+        "routine"
+      ],
+      "representative_docs": [
+        "The acid dissolves the enamel on your teeth.",
+        "> taking care of your teeth has become easy for you because you’ve been doing it consistently for a long-ass time. Wrong! I was raised in a middle-class family where teeth were very important. I was taught from a very young age to brush my teeth, and was always forced and checked to make sure I brushed my teeth. However, my parents are toxic and they were horrible in training a kid in a good way to establish good habits. I was a smart kid and I’d do everything to escape brushing my teeth; to the point that I’d go to the bathroom, make the toothbrush wet, maybe chew up a bit of tooth paste, and wait for a while so that they’d think I’m brushing my teeth and then come out. I’m in my 30s with several root canals and multiple fillings. The only reason I brush my teeth nowadays is to avoid spending my salary on a dentist. Otherwise the decades long consistency has not made it any easier for me to do this extremely boring chore. So I disagree with this statement. However, I’m happy it’s been working for you. Keep it up!",
+        "how to actually do shit without MOTIVATION I’m sitting in the dentist's chair, as the dentist is telling me to floss my teeth. But for the 100th time I say that I’ll of course do it, no worries doc I got this. >I get it if you don’t floss, your teeth will rot. duh. But I already brush my teeth twice a day. Do I really need to floss my teeth? As he finishes up his talk, I start walking towards the door to leave the office onto the streets. Fast forward 10 years. I’m walking down Plaça d'Espany when I pull up a white square box out of my pocket. I pull out the thread and start flossing my teeth, once I’m done I lick my teeth to make sure they “feel” clean. Because of that simple thing of checking my teeth, I love flossing and I’ll gladly do it every day. But what about the times when I don’t floss? My teeth feel gross so something feels off. >That feeling? That’s the reason for why I floss my teeth every day. I did not have that feeling before so there was no reason for me floss my teeth but now when I do? I feel a **need** to do it. Connecting a feeling to anything that we want to do in life, is something that I’ve found make things easier for me when I want to improve over time. Rather than trying to pressure myself or motivate myself to do it. I’ve found it’s way easier to just figure out how I can create a positive feeling of doing this thing. Once that’s in place I’ll do the thing because I want do it."
+      ],
+      "topic_label": "Topic 8: teeth, brush, brush teeth, care",
+      "application_priority": "Medium Priority - Common User Need"
+    },
+    "9": {
+      "topic_id": 9,
+      "count": 29,
+      "tier": "Tier 2 - Secondary User Need",
+      "analysis_depth": "moderate",
+      "top_words": [
+        "chatgpt",
+        "child",
+        "chat",
+        "written",
+        "ai",
+        "tool",
+        "family",
+        "sound",
+        "date",
+        "human"
+      ],
+      "representative_docs": [
+        "i cant explain it, but this reads like chatgpt wrote it.",
+        "Reads like chatgpt wrote it",
+        "I was happy to see your comment! I saw a post yesterday on an Aussie makeup sub and the top comment was \"upvoting for that first sentence alone.\" It was clearly ChatGPT because it overtly peppered the post with Aussie slang and had all of the double hyphens everywhere. Even without the double hyphens, it just seems so obvious to me? I'm a manager and 95% of the job applications I review are ChatGPT and it just sounds....uncanny and not how a human would talk...real human cover letters stand out in the best way now. ChatGPT is a very valuable tool but people are getting quite lazy. For comparison here's this same comment ChatGPT-fied: Sure! Here's a more polished and succinct version: Thanks — I appreciated your comment! I saw a post yesterday on an Aussie makeup sub where the top reply was, “Upvoting for that first sentence alone.” It was clearly written by ChatGPT — loaded with Aussie slang and full of double hyphens. Even without the formatting, it just stood out. As a manager, I’d say about 95% of the job applications I review are ChatGPT-written. They often sound a bit off — not quite how real people speak. Ironically, the genuinely human cover letters stand out now… in the best way. ChatGPT is a great tool, but people are definitely getting lazy with how they use it."
+      ],
+      "topic_label": "Topic 9: chatgpt, child, chat, written",
+      "application_priority": "Low Priority - Niche User Interest"
+    },
+    "10": {
+      "topic_id": 10,
+      "count": 28,
+      "tier": "Tier 2 - Secondary User Need",
+      "analysis_depth": "moderate",
+      "top_words": [
+        "ai",
+        "grammar",
+        "philosophical",
+        "written",
+        "post",
+        "ideas",
+        "using",
+        "write",
+        "posts",
+        "better"
+      ],
+      "representative_docs": [
+        "This is an AI response used to defend an AI post.",
+        "This post seems suspiciously AI made...",
+        "Get this AI junk out of here."
+      ],
+      "topic_label": "Topic 10: ai, grammar, philosophical, written",
+      "application_priority": "Low Priority - Niche User Interest"
+    },
+    "11": {
+      "topic_id": 11,
+      "count": 28,
+      "tier": "Tier 2 - Secondary User Need",
+      "analysis_depth": "moderate",
+      "top_words": [
+        "app",
+        "version",
+        "wait",
+        "hello",
+        "web",
+        "months",
+        "twitter",
+        "available",
+        "let know",
+        "unfortunately"
+      ],
+      "representative_docs": [
+        "I wait for Android version",
+        "You need a laptop or tablet for the web version (the website doesn't work well on a phone at the moment unfortunately..). On your laptop, go to and click \"Sign up\" in the top right corner :) If you're on an iPhone, you can download the iOS app here: Let me know if you need any help! PS I'm going to start building the Android version now so hopefully in a few months everyone can use it :)",
+        "I'm not sure unfortunately. I will start on the web version in a week or so, and I expect this to take 2-3 months to finish. After that I will start on the Android app, which might take another 2-3 months.. But, if the app starts becoming popular there might be other ways to do it more quickly. We'll see :) Thanks for the interest!"
+      ],
+      "topic_label": "Topic 11: app, version, wait, hello",
+      "application_priority": "Low Priority - Niche User Interest"
+    },
+    "12": {
+      "topic_id": 12,
+      "count": 24,
+      "tier": "Tier 2 - Secondary User Need",
+      "analysis_depth": "moderate",
+      "top_words": [
+        "app",
+        "social media",
+        "media",
+        "social",
+        "use",
+        "twitter",
+        "data",
+        "people",
+        "youtube",
+        "learned"
+      ],
+      "representative_docs": [
+        "Hey OP! I get where you’re coming from but social media is a tool and how you use it varies! Because of Tik tok, I learned how to start a small successful business, I switched careers without a degree, and I got into the best shape of my life through stuff I learned from fitness content creators. Tik toks algorithm is superior to other social media platforms and it’s driving lots of change and growth in people!",
+        "TikTok was not solely used as a social media app. There are thousands of small businesses on that app that were basically told to GFY",
+        "Maturing is realizing that you never needed TikTok in the first place It is actually so crazy to see so many grown ass adults in a frenzy over the TikTok ban, scurrying over to a literal Chinese owned TikTok, which is even worse than what TikTok was when it comes to data privacy, propaganda, etc. If you are tempted to follow where popular culture is moving by downloading one of these dopamine dispenser social media apps again, let this be your sign that **you are better than this.** I have dealt with mental health problems for the better part of my adult life and with that has come a good deal of phone addiction, and it is scary to see that we are normalizing phone addiction in this way. The fact that we are immediately flocking to another doomscrolling app is just insane. I honestly stand by the truth that it was only when I stepped away from mainstream social media that my mind cleared up and I started having actually new and novel ideas again. I started having the time to solve my personal problems instead of numbing myself to funny / shocking content on TikTok / Reels. So please, take this post as your sign to use the TikTok ban as a catalyst for positive change. I would recommend a few beginner steps to begin separating yourself from social media, mainly via adding friction to your phone. Install a grayscale filter for a few days (or even use the new IOS 18 app icon color settings to make them grayscale, at the minimum). Get a friction based screen time app - I use one (superhappy ai) that forces me to chat to an AI to unlock my apps. Add friction everywhere without outright deleting social media, and you’ll find that your brain will slowly rewire itself toward healthy activities, at which point you can safely delete the apps without feeling tempted every living second to redownload them. Just do something. We need to have more self awareness about ourselves in this moment, instead of just letting our social media addictions continue."
+      ],
+      "topic_label": "Topic 12: app, social media, media, social",
+      "application_priority": "Low Priority - Niche User Interest"
+    },
+    "13": {
+      "topic_id": 13,
+      "count": 24,
+      "tier": "Tier 2 - Secondary User Need",
+      "analysis_depth": "moderate",
+      "top_words": [
+        "men",
+        "women",
+        "woman",
+        "man",
+        "different",
+        "surprised",
+        "weird",
+        "trait",
+        "agree",
+        "appropriate"
+      ],
+      "representative_docs": [
+        "This. Seriously, I keep coming across men who vent about being forever alone who don’t go outside and engage with the word, they then use external validation like women in their life say they are a great catch and that they aren’t ugly. Well, it’s the mentality they carry that makes them unattractive. Also men who believe that having a partner just means someone to go on cute dates with and hug each other….there’s more to life dang it!",
+        "Why is this exclusive to men?",
+        "And with a pretty typical man’s response you’ve truly showed me how men and women are different."
+      ],
+      "topic_label": "Topic 13: men, women, woman, man",
+      "application_priority": "Low Priority - Niche User Interest"
+    },
+    "14": {
+      "topic_id": 14,
+      "count": 23,
+      "tier": "Tier 2 - Secondary User Need",
+      "analysis_depth": "moderate",
+      "top_words": [
+        "science",
+        "didn",
+        "obviously",
+        "god",
+        "oh",
+        "information",
+        "use",
+        "mindset",
+        "grammar",
+        "evolution"
+      ],
+      "representative_docs": [
+        "ね looks like a cat facing to the left with its tail curled. Obviously a Japanese letter isn't meant to resemble something and neither is math or grammar. Use your imagination instead of nit-picking",
+        "The variety of comments from people peddling pseudoscience on here shows that it really is not the case. This is rubbish, it's bad science, and shouldn't be promoted here.",
+        "Okay, science: and a better explanation than mine: EDIT: this has been revised since I first read it, and my understanding is now different! It sounds like I pulled it out of my ass because I can't be assed to give complete explanations to things that have been answered more completely by other people. But I appreciate the feedback so I can improve my ability to communicate science, including my own work, to laypeople."
+      ],
+      "topic_label": "Topic 14: science, didn, obviously, god",
+      "application_priority": "Low Priority - Niche User Interest"
+    },
+    "15": {
+      "topic_id": 15,
+      "count": 22,
+      "tier": "Tier 2 - Secondary User Need",
+      "analysis_depth": "moderate",
+      "top_words": [
+        "mindfulness",
+        "meditation",
+        "000",
+        "calm",
+        "music",
+        "sleep",
+        "relax",
+        "enjoy",
+        "practicing",
+        "help"
+      ],
+      "representative_docs": [
+        "These are my two favourite playlists on Spotify that I use to help aid mindfulness and meditation and relax before a restful sleep. Feel free to listen to them yourselves and have a lovely day! Enjoy! **Calm Sleep Instrumentals** *(Sleepy, Piano, Ambient, Calm) with 15,000+ other listeners having a calming a and tranquil sleep* [ **Mindfulness & Meditation** *(Ambient/ drone/ piano) 35,000+ other listeners practicing Mindfulness at the same time* [",
+        "These are my two favourite playlists on Spotify that I use to help aid mindfulness and meditation and relax before a restful sleep. Feel free to listen to them yourselves and have a lovely day! Enjoy! **Calm Sleep Instrumentals** *(Sleepy, Piano, Ambient, Calm) with 15,000+ other listeners having a calming a and tranquil sleep* [ **Mindfulness & Meditation** *(Ambient/ drone/ piano) 35,000+ other listeners practicing Mindfulness at the same time* [",
+        "These are my two favourite playlists on Spotify that I use to help aid mindfulness and meditation and relax before a restful sleep. Feel free to listen to them yourselves and have a lovely day! Enjoy! **Calm Sleep Instrumentals** *(Sleepy, Piano, Ambient, Calm) with 15,000+ other listeners having a calming a and tranquil sleep* [ **Mindfulness & Meditation** *(Ambient/ drone/ piano) 35,000+ other listeners practicing Mindfulness at the same time* ["
+      ],
+      "topic_label": "Topic 15: mindfulness, meditation, 000, calm",
+      "application_priority": "Low Priority - Niche User Interest"
+    },
+    "16": {
+      "topic_id": 16,
+      "count": 21,
+      "tier": "Tier 2 - Secondary User Need",
+      "analysis_depth": "moderate",
+      "top_words": [
+        "girl",
+        "men",
+        "therapy",
+        "people",
+        "women",
+        "weird",
+        "rude",
+        "guys",
+        "probably",
+        "talk"
+      ],
+      "representative_docs": [
+        "I don't think that going around and asking people weird requests will make you better at taking rejections from girls. it will just make you better at asking strangers weird questions and expect to hear the obligatory \"no\". these actions aren't honest, you don't really want to deliver pizza for dominos, and you don't expect them to agree to that. when you will ask a girl out again, it will be (hopefully) honest, because you would want to date her and get to know her. you would want to hear \"yes\". a big part of taking rejections hard (in your words - feeling a paralyzing fear), is that deep down, you believe in a bad value. maybe it's that you're not good enough. maybe it's that you're at fault for approaching. maybe it's that you're not worthy for them. whatever that value is - finding it and questioning yourself about it (am I truly not good enough, or maybe we just don't fit together?) will make you cope with rejection problems. nobody likes to be rejected. it will always be scary, but challenging your beliefs on what you truly have to lose when you approach girls will make it a lot less daunting. and like another commentor here said, you also waste working people's time for selfish gains with these requests. I went over some of these \"goals\" from your first post. most of them are just being a dick to other people. at least pick the goals that aren't exploiting others (like asking for compliments, raising donations for charity etc)",
+        "I think it's a vicious cycle. A lot of guys don't realize how early and how often women have to deal with very creepy and aggressive come-ones from older men. [This thread]( is full of stories of girls 10-14 (and some even younger) being catcalled, chatted up, and groped by adult men. A lot of girls develop rude and aggressive responses to unwanted sexual interest as a defense mechanism. Unfortunately, by the time our actual peers start showing interest several years later, it's already a set pattern, so it can result in nervous boys being rejected by behavior developed in response to aggressive men, which has the result of turning some of the boys into the type of angry, bitter men who hurl insults at a girl for rejecting them and teach her to be harsh and rude to the next guy, so the cycle continues. Of course, some women are just naturally bitches and some guys are just naturally creepy, but for the rest, a little empathy on both sides might go a long way towards helping break the cycle.",
+        "How can I learn to accept rejection? *NOT NECESSARILY ABOUT DATING* I’ve been struggling a lot to accept rejections (idk if thats even the right word in this case) and it’s made it so that I am barely able to try anymore. For the last few years, I was executing the mindset of doing “exposure therapy” if you will, “try things and accept the outcome, you will have to embarrass yourself before reaching success.” Because before that, I didn’t put myself out there in so many ways whether it be friendship, meeting people, dating, academic, financial, general life opportunities and such probably due to my history of bullying and low self esteem/self hatred since a very young age. Anyway, this backfired and made things worse. It feels like everything I try to do fails and it’s left me feeling like trying is pointless. For example, texting people is absolutely brutal. I’m always thinking, I’ll text my friends and see if they want to hang out, what could go wrong and every single time I’m left on read. It’s beyond embarrassing. A few times I finally got to the scheduling stage with them and then got ghosted before the plans actually happened which left me confused. Another example, a lot of the times when I’m trying to talk to people they will either ignore me or walk away. Like this girl that was in a group i was hanging out with asked me “your makeup looks so nice, how did you do it” and so I started to explain and she just walked away in the middle of my sentence 😭. This happens ALL THE TIME. I’ll ask someone a question or say something and it will be complete silence more often than not. this has ruined my social skills, because now I talk to people expecting them to ignore me because that’s what usually happens, and so when someone actually does respond it’s awkward. Like I tried to start a conversation with this girl in my class, i immediately unconsciously started walking away but she actually answered, so now i probably looked rude. Sorry for all the examples and the rant. But this doesn’t only apply to my social life of course. Everything I’ve tried, every job application, every interview, every extracurricular activity, all have been rejected. So the “rejection therapy” didn’t leave me desensitized to rejection, it left me to where I can barely leave my house and talk to people. It’s deeply affected me and it’s not even because I take it personally each time, It’s because i’ve gotten literally 0 positive output and have nothing to fall back on. Any advice is appreciated. TLDR: Tried exposing myself to rejection more often to get used to it, but it ended up backfiring and decimating my confidence rather than building it. Looking for advice on how to overcome rejection and keep pushing."
+      ],
+      "topic_label": "Topic 16: girl, men, therapy, people",
+      "application_priority": "Low Priority - Niche User Interest"
+    },
+    "17": {
+      "topic_id": 17,
+      "count": 19,
+      "tier": "Tier 3 - Niche User Need",
+      "analysis_depth": "brief",
+      "top_words": [
+        "learn",
+        "learning",
+        "section",
+        "japanese",
+        "month",
+        "continue",
+        "fun",
+        "life",
+        "schedule",
+        "day"
+      ],
+      "representative_docs": [
+        "Studying Japanese was the worst choice of my life. Good morning I'm coming here today because I've been ruminating too much about my life choices. Throughout my life, I was never able to talk about it with my family, and I didn't have many friends at the time. I have never been criticized, nor have I been supported, that's why I would like to have help or even criticism if necessary. To put it simply, I'm French and I'm almost thirty now. I chose to study Japanese languages, which I did for almost five years, including a year in Japan. I wasn't among the best, even though my level was already good before going there. For a long time, I gave up all hobbies to just learn Japanese. Like, a lot, almost 10 hours a day from the age of 15 to 18. However, over time I realized that this choice of study was wrong. Maybe I already realized this before, but I just couldn't admit it to myself. But for me, these studies were also a refuge to hide the real problem: I don't know what to do with my life. I have no interest in translation or interpreting, in the end the important thing for me was above all to be able to express myself, which is clearly not worth 5 years of one's life. After my studies, I asked myself what I wanted to do with my life, I thought back to my old dreams of becoming an illustrator or animator. This makes me realize even more that I have gotten myself into a complicated situation, because even if I was studying arts now, given my age and the time it takes, It's clearly not a good idea to go back to school even more if it's in art. I think I'm being realistic in saying that positions are scarce in this field, and it's not going to get any better. Even though I think language studies are already a lot worse. In the meantime, I've tried to continue to create little paths and try things out. I have a stable job as a bookseller at the moment and I work partially for travel agencies. I also applied for a program to go and work in Japan, I admit that I don't really know what it could bring me but my mentality was to take whatever can be taken. I confess that I know the Japanese work ethic only too well. I've worked for Japanese companies in France before, where things didn't go well. Between the moral harassment, the excessive overtime and the lack of holidays, I, who still want to try to discover hobbies, am a little scared now. I still love Japan, and I'd love to continue working with it. But do I want to do this because it's all I know how to do? I don't know. But I feel like I'm being too greedy, I made a catastrophic choice of study, and now I'm demanding time to find myself. I've never had a very stable life, I come from a very poor background, so for me to choose the wrong course when I was lucky enough to study for free is almost criminal. I try not to let myself be fooled by regrets in order to move forward and better understand what I am looking for, but there you go, I am truly lost. I don't know if you can help me, but I'll take anything, if you have questions, similar life stories, I'll take anything. I must admit that I hesitated for a long time before choosing the right forum to write this, I'm at a point where I would just like to be roasted on my life to see if that would change things. Anyway, thank you very much for reading my post, I'm sorry if it's not very clear at times.",
+        "The Commitment Game: Get a whiteboard or a piece of paper, and divide it into two sections. One section is called 'committed' and the other is called 'uncommitted.' The 'uncommitted' section is for aspects of your life which, if you were to give up on them, really wouldn't rock the boat that much. This is the section for things like learning a language for fun, taking up a new sport, joining a hobby group, etc etc. This *isn't* for things you'd *like* to be committed to -- it is an honest assessment of what will impact your life if you lose it. If you're learning Spanish just because you think it's a beautiful language, it goes here. If you need it for a promotion at work, put it in the other section. The 'committed' section is for aspects of your life which, if given up, would have a large, detrimental effect on your life. This is for studying for exams, passing your degree, an important job for your career, working out, eating healthily, maintaining a relationship, etc. Underneath each item, also write the biggest consequence of giving it up: \"I will fail college\", \"I will lose my job\", \"I will become ill in the future\". Here are the rules: 1. Anything in section 1, do as infrequently and as little/as much as you'd like. Switch between them, give them up, pick them back up again, do whatever. There is no consequence for giving these up. Add and take away whatever you like, as long as they continue to have no real, negative impact on your life or your future. 2. Anything in section 2 has a month staying rule. As soon as you start to feel like you want to exit or give a Section 2 item up, you have to stick with it for one more month. If you break during that month, it resets, and you have to go back to doing another month. When you break, look back at the consequence line and spend 15 minutes visualising that future, and how you'll feel. 3. Once the month is up, you can choose to either Continue, Adjust, or Exit. *Example: you want to give up your job, because of the long hours.* 3a. Continue - keep going as you are. Whatever was bugging you then has probably passed over, and you're OK to continue. *Example: you realise you were just having a bad month when you started to feel that way about your job.* 3b. Adjust - you still feel like you want to give it up, but it's not as strong as it was. Over the next day or two, reflect on the past month, and work out the main reasons why it didn't work for you. Adjust your current plan as much as possible to continue this commitment, without actually giving it up. *Example: you realise job hunting during the pandemic is a nightmare, worse than your current situation. Spend a day working out how to reduce your hours as much as possible so you can stay.* 3c. Exit - you feel as strongly as you did at the start of the month, if not more. The Exit Strategy is another month long, but you work out, day by day, how you'll give it up with as little negative impact as possible. *Example: you're burning out. Give yourself a week to A) work out what other role you'd want to move into, B) if you'd like to stay in the same industry, and C) which contacts you could use to find another position. Use the next week to draw up an exit plan, then carry it out over 3 months.*",
+        "omg omg I would love to have this kind of time!!!! You can do so many things. I'm just throwing ideas out there - hopefully some of them are appealing to you. Overall, I'd make a big list of things to try once, and about 3 things to get good at. Now on to a list * Learn to cook. REALLY LEARN. Bake bread every day. Tweak your recipe until it becomes FANTASTIC. Make yourself a hot breakfast every morning. (Bonus: Excellent skill for post-sexytimes.) * Draw for 10 minutes/day. There are some good internet tutorials. Learn to write with your non-dominant hand. * Start a blog. Write for 1 hour/week. Or 20 minutes/day. * Practice public speaking. Toastmasters has great resources online. Just grab an empty room in the library and videotape yourself. Write a 5 minute speech, or give a 2 minute impromtu response to the most recent askreddit question. * Learn a language - others gave some online resources for this. * Basic programming - codeacademy and many others available to teach you online. Even if you just spend 2 hours/weekday coding, this will really set you ahead in future opportunities/jobs. * Basic graphic design. Design a menu for that catering event someone forgot to print out signs for. Design a logo so you know how when you start a kickass business in 3 years. * Exercise. I could write for hours on exercise. Take dance lessons, or go to the salsa club with free ones. I don't care what kind of dance - ballet/modern/ballroom/whatever. The key here is regular practice. When you're good, your coordination and confidence will show in everything you do. You said you weightlift - that's great. Keep up the good work! I wouldn't worry about tiring yourself out - human bodies are really good at adapting to being really active. Get yourself in fantastic shape this summer. Go biking, running, dancing, swimming AND weightlifting. Or whatever you find fun. Start slow, know your limits and don't get hurt :) * Learn poi / juggling / staff spinning / other prop spinning arts. Youtube has great tutorials and you can make sock poi or a basic staff for < $5. * Magic tricks. Get a deck of cards and youtube. My roommate has only been practicing for 2 months and is fantastic. Learn to please an audience. Practice with everyone you know. * Talk to EVERYONE. The cashier, the girl on the subway, the bank teller. You aren't good enough at engaging people until you're on the phone with your bank to cancel your credit card and end up talking about travel plans in Russia. (My friend is this good. He started by opening conversation with EVERYONE.) * Watch 2 Ted talks every day. * Learn shit. Whatever you want - Khanacademy, * Build stuff. You didn't mention your major, so maybe this is irrelevant. Learn to use basic * Volunteer. That could be a whole separate post. * Learn to run events. This is a pretty crucial life skill as well, and most organizations are lacking event planners. Host a dinner party to fund-raise for a charity/One Fund Boston/whatever is dear to you. * Learn a musical instrument(s) * Busk. With the dancing/musical instruments/prop spinning and awesome public speaking skills you now have, you should be set to try it out! Check our your local laws - sometimes they require you to have a permit. Even if you suck (which you will at first, but you'll get better), you should be able to break even in a few days in a busy city. * Garden * If you haven't already, head over to r/[fe]malefashionadvice and learn to fit clothes properly, etc. * Your turn. Keep this list going. Now, OP. This is in so we don't stop here. Pick 10 things you want to try once, and 3 things you want to really learn. Write them down. Now make a schedule. Get out your calendar, and schedule them in. Here's what I recommend. You get off work at 3, so you'll sleep from 4-noon. Not much you can do about that. Get up before noon every day. Schedule out those 6 hours. Personally I use google calendar. Here's an example: > noon shower > 1230 make hot breakfast > 1-3 work time. alternate between watching lectures (ted talks, khanacedemy, etc), learning a language, and coding. > 3-5 weightlifting/biking/insert exercise here. You could weightlift MWF and bike/run TRS. > 5-6 free time/reddit/... > 6-3 work Now you follow your schedule. Always move on the next thing at the specified time, even if you're not done with your current task. You'll pick it up the next day, and you want to make sure you get to everything. As you proceed, you may find you need more or less time for certain activities, and you can adjust your schedule accordingly. And remember to schedule in time for fun! Don't be too disciplined you don't have fun, get laid and surf reddit. You can allow for veg-out-time in the schedule. You can relax knowing that you'll be productive at the appropriate times. :) Hope that helps! Let us know how it goes :)"
+      ],
+      "topic_label": "Topic 17: learn, learning, section, japanese",
+      "application_priority": "Low Priority - Niche User Interest"
+    },
+    "18": {
+      "topic_id": 18,
+      "count": 17,
+      "tier": "Tier 3 - Niche User Need",
+      "analysis_depth": "brief",
+      "top_words": [
+        "remember",
+        "use",
+        "number",
+        "information",
+        "door",
+        "used",
+        "terrible",
+        "later",
+        "practically",
+        "say"
+      ],
+      "representative_docs": [
+        "Assign a story or picture to everything you remember, and make sure the story relates. So say you are try to learn the kana ね you could say it looks like a cat and a cat is a neko in japanese. Or say you want to learn that anything to the power of 0 is 1, say there was a big number that never put in effort, when the number put in no effort he would still be 1 thing. Humans evolved to remember stories to survive, so making use of that evolutionary trait only makes sense.",
+        "[Advice] How i learnt to remember everything I used to find that after learning something i’d often have forgotten it a few days later. This really bothered me… but recently i’ve learnt how to remember everything i want that i wanted to share. The trick is to use **spaced repetition software**. The way spaced repetition software works is that you enter in what you want to remember and then it quizzes you on the information in a spaced out way over time to make sure you remember it. It means that by spending only 10 mins a day you can remember everything you want to! I literally cannot recommend this enough. Our memory is so important to our intelligence and who we are, it has had a transformational impact on my life. There are quite a few options to use, i use [saveall]( and there’s also anki and quizlet, try them out!!",
+        "The way that I figured out how to remember things was to be more mindful about creating the memory and to tie it to some sensory input. For instance, I've trained myself to remember to check my keys whenever I touch my doorknob. It's practically autonomous by now to remember -- it just pops into my mind -- and then I mindfully check my keys and the sensory information of mindfully touching my keys and locking the door helps me remember later that the door is locked. Or if I want to remember to, say, call a friend once I arrive at a restaurant or something, I'll imagine the parking lot and front door and vividly imagine walking it, then associate the \"call friend\" with maybe a mental image of the friend while I imagine that walk. Then, later, when I make that walk, it practically forces the memory to the surface. Finally, I use a lot of mnemonics. I think the technical term for what I do is like \"locus of memory\" or something like that. Basically, you create a mini mind palace for various things you wanna remember. Using existing spaces you know for that palace helps too. For instance, if you want to remember X different sections of a heart, you might assign each section to a different coathook. That first section is connected to your bright green jacket hanging on that first hook, the second with the second, etc. Now, since you know that hookspace very well, you can derive the heart parts or whatever very easily just by creating those links between arbitrary concepts and objects."
+      ],
+      "topic_label": "Topic 18: remember, use, number, information",
+      "application_priority": "Low Priority - Niche User Interest"
+    },
+    "19": {
+      "topic_id": 19,
+      "count": 16,
+      "tier": "Tier 3 - Niche User Need",
+      "analysis_depth": "brief",
+      "top_words": [
+        "jordan peterson",
+        "peterson",
+        "jordan",
+        "bathroom",
+        "silence",
+        "version",
+        "add",
+        "brush teeth",
+        "bed",
+        "tonight"
+      ],
+      "representative_docs": [
+        "I kept my code in the bathroom so I would immediately go pee, and then wash my face and brush my teeth.",
+        "Poop in silence should be the detox version of Jordan Peterson's \"Make your bed.\" (Someone, add this to the Lisa Simpson presentation board.)",
+        "Poop in silence should be the detox version of Jordan Peterson's \"Make your bed.\" (Someone, add this to the Lisa Simpson presentation board.)"
+      ],
+      "topic_label": "Topic 19: jordan peterson, peterson, jordan, bathroom",
+      "application_priority": "Low Priority - Niche User Interest"
+    },
+    "20": {
+      "topic_id": 20,
+      "count": 16,
+      "tier": "Tier 3 - Niche User Need",
+      "analysis_depth": "brief",
+      "top_words": [
+        "ve learnt",
+        "audio",
+        "learnt",
+        "shout",
+        "sounds",
+        "ill",
+        "rough",
+        "handle",
+        "sounds like",
+        "proud"
+      ],
+      "representative_docs": [
+        "Record ur dad saying this stuff in video or audio, then, when you graduate and everyone shows up all smiles, be like... I’m so glad I made it, even though we went through that really rough time. He’ll say, what rough time? And then you say, I have some audio if it, and then play the audio…",
+        "I gotta commend you for weathering all that abuse and instead of letting this kick you down into an even deeper pit, you're taking it as encouragement to do better. You got some grit man. However, I think your dad is an asshole for calling you a loser and mentally ill. Burnout is a real problem among many students and depression is a bitch to deal with. For him to trivialize that is uncalled for. You got this but please, take care of yourself. Make sure you schedule breaks and rest too. You're going to need it.",
+        "Your father might be right, you might be mentally ill. But just in the same way you wouldn't shout at someone for having a broken arm or meningitis, berating and shouting at someone with a mental illness is not going to help at all. Other commenter is right, your dad is the loser. I would suggest you just write off the bad semester as a learning experience. And learn from it. You've learnt that your dad is only supporting when you're doing well. You've learnt that some of these tests are hard, and you've learnt how not to deal with them. Go back and hit the ground running next semester on your course, if that's what you want to do. But make sure you do it for you, and not because some asshole will shout at you otherwise. All the best for you and your future"
+      ],
+      "topic_label": "Topic 20: ve learnt, audio, learnt, shout",
+      "application_priority": "Low Priority - Niche User Interest"
+    },
+    "21": {
+      "topic_id": 21,
+      "count": 16,
+      "tier": "Tier 3 - Niche User Need",
+      "analysis_depth": "brief",
+      "top_words": [
+        "eat",
+        "rest day",
+        "task",
+        "morning",
+        "thing morning",
+        "day",
+        "rest",
+        "thing",
+        "difficult",
+        "win"
+      ],
+      "representative_docs": [
+        "What is “eat the frog” then?",
+        "Eat your frog first (do your biggest / most important / worst task for that day). If you eat your frog first thing in the morning, you can go through the rest of the day knowing the worst is behind you. Quote from Mark Twain and advice from Brian Tracy, a self help guru. Eating my frog is relieving and sets a good tone for the rest of the day.",
+        "This is how I view task according to mark twain. Start with the most difficult task in the morning. Everything is easy after that. As Mark Twain once said “If it's your job to eat a frog, it's best to do it first thing in the morning. And if it's your job to eat two frogs, it's best to eat the biggest one first.”"
+      ],
+      "topic_label": "Topic 21: eat, rest day, task, morning",
+      "application_priority": "Low Priority - Niche User Interest"
+    },
+    "22": {
+      "topic_id": 22,
+      "count": 16,
+      "tier": "Tier 3 - Niche User Need",
+      "analysis_depth": "brief",
+      "top_words": [
+        "dog",
+        "cute",
+        "taking care",
+        "best",
+        "cat",
+        "taking",
+        "company",
+        "ended",
+        "story",
+        "love"
+      ],
+      "representative_docs": [
+        "So happy for you and your dog!",
+        "Your dog is the cutest!",
+        "Bichons are the best dogs and your dog is the best dog and I’m glad she’s getting the best dog treatment."
+      ],
+      "topic_label": "Topic 22: dog, cute, taking care, best",
+      "application_priority": "Low Priority - Niche User Interest"
+    },
+    "23": {
+      "topic_id": 23,
+      "count": 15,
+      "tier": "Tier 3 - Niche User Need",
+      "analysis_depth": "brief",
+      "top_words": [
+        "conversation",
+        "ask",
+        "talking",
+        "really",
+        "people",
+        "person",
+        "questions",
+        "talk",
+        "listen",
+        "meet"
+      ],
+      "representative_docs": [
+        "How to be a conscious and mindful listener in 3 ways Being a good listener is hard sometimes, especially when you are trying to break the habit of speaking too much. Don't worry, I got you. Here are 3 practical tips that you can practice to improve your listening skills. 1. **Eye Contact** There's just something about eye contact. This lets the other person know you are paying attention to them. Let's say you're chatting with a friend, and you notice them looking away or constantly checking their phone. Annoying, right? So, maintaining eye contact can help you become a better listener. Here's the thing: don't just stare because it would be rude or even make them feel weird lol. One more thing: if you are looking at the person you are talking with, there's a higher chance that you will listen to them. This is because your mind will focus on them as the subject, leading you to listen to them. You might be wondering, how do I know what amount of eye contact is right/okay? Well, you can always look at them for like 5 seconds and then slowly but naturally look away. Don't dart your eyes because this would make it weird. On to the next habit. 2. **No Interruptions** Imagine you are talking and someone keeps interrupting you. Ugh! To be a better listener, you have to calm down and make sure you don't interrupt the other person when they are talking. This is actually one of the most important habits because there is no listening when another person keeps interrupting. I know you might be excited to tell them something, but PLEASE CALM DOWN! That sounded harsh, I'm sorry, but we have to help each other here. You also don't have to make the convos/discussions robotic. They should be able to flow naturally. Resisting the urge to interrupt is the beginning of becoming a better listener. This is because you will have a chance to really take in what is being said. Another advantage is that it will allow you to give more thoughtful responses since you will have the full info and context of the convo. If you really have to interrupt, please be respectful and say something like, may I add/ask something... The other person will feel valued because their perspectives are being given a chance by YOU. I know you got this. Please let me know if you need a more detailed explanation of how you can overcome interrupting others. I know you got this :) 3. **Empathy** This is a habit you must adopt if you want to become a better listener. There's really not much to say about empathy, but I urge you to bring in your 'humanness.' Be involved in the convo and ask meaningful open-ended questions. This will encourage the other person(s) to share more and be more open with you. This is a secret ingredient in any relationship, be it professional or personal. **P.S** With these 3 tips, you can listen consciously and be mindful of how others feel in a convo. It goes both ways. It's all about energy exchange. If you listen to others, they will also listen to you. That's all for now. Byee xx",
+        "More really good questions. First off, part of it depends on the other person you are talking to. If they are more extroverted, it's going to be easier. If they are very shy, it's going to be harder. **One of the best things is if you can find something to ask about that you have in common. For example:** \\- For example, if you see them at the gym, you could ask them what type of workout they do. \\- If they have a pet, ask them questions about their pet. Like, \"that's a cool dog, what breed is it?\" \\- If they are wearing a shirt that mentions a band, you can ask them about that band. \\- Etc. **Another thing I like to do is simply repeat another boring opener after their initial \"good.\" For example:** \\- First you ask them, \"hey, how are things?\" \\- Then they might say, \"pretty good.\" \\- Then I say \"so, what's your day been like so far?\" **The key is to really look like you care when asking the second question.** \\- I swear just re-asking a second boring question 70% of the time gets them to open up a bit more. The reason I think, is that most people expect others not to really WANT to have a conversation. So, their natural instinct is to go \"not much\" or \"good\" when you first ask them how things are going. But if you follow up again, it shows real interest. And that can often get them to start talking a bit more. It's definitely not as good as finding something relatable. But if you can't find something relatable, or are just lower energy that day and can't think of anything, this is a decent backup plan. **In terms of how you should react so they continue talking to you:** Look like you really care about what they are saying. Even better, ACTUALLY really care about whey are saying (not always possible I understand haha). The best way to look engaged is to listen really closely to what the other person is saying AND truly care about their responses. If you do that, people will love talking to you.",
+        "How do you get past small talk and make real friends? I really struggle socially, and that's a hard pill to swallow but it's true. I have a group of friends from high school, and that's about it. I went through my degree meeting plenty of acquaintances, but never really fully landing with anybody. To be honest, I was in a small program and I don't think I had a lot in common with the people there anyway, but I was still friendly to all. I'm entering a new program in September, and I feel like this is my last chance to try. But I noticed when I do meet somebody interesting, or somebody I want to know more about, I sort of freeze up. I have no sweet clue how to approach them. I can talk to them, but I never get past that polite coworker sort of conversation phase. \"How are you?\" \"What's your major?\" \"How do you find the class?\" \"What'd you do over the summer/weekend?\" \"Oh I love that artist, that's great taste. What else have you been listening to?\" These are just transactional interactions. I show interest, I follow up with other questions, I get to know a little about them, and then the conversation just dies. It goes nowhere. It's on me, I just don't know how to keep the conversation going, or how to really engage people and get them interested in talking to me. I really struggle with also showing myself. I feel like I enter a friendly mode. I smile lots, nod, ask about them, show interest, throw in small things about myself, etc. but I never feel like I'm really showing who I am in terms of my spirit. It feels like I never get a chance. I never feel there's any \"opening\" to get real of vulnerable or deep with the other person. It's all just small talk. I want to connect with others. I want to make really great friends and KNOW them deeply. I want to show who I am and be honest about it. I want to know others and share experiences with them. I know who I am. I value my peace. I'm always trying to better myself. I'm a gentle and curious soul who dabbles in as many things I can and love learning about anything and everything. I'm highly creative and love art. That's who I am. So why can't I show this? I feel pathetic. I feel like I've forgotten how to make friends. TL;DR: I struggle to be authentic and make deeper connections with others beyond a surface level."
+      ],
+      "topic_label": "Topic 23: conversation, ask, talking, really",
+      "application_priority": "Low Priority - Niche User Interest"
+    }
+  },
+  "processing_info": {
+    "method": "fast_sampling",
+    "sample_size": 13340,
+    "processing_time": "optimized_for_speed",
+    "timestamp": "20250529_153632"
+  }
+}

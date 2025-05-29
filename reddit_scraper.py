@@ -23,11 +23,11 @@ logging.basicConfig(
 logger = logging.getLogger(__name__)
 
 class RedditScraper:
-    def __init__(self):
+    def __init__(self, subreddit_name: str = "DecidingToBeBetter"):
         """Initialize Reddit scraper with database and API connections."""
         self.reddit = None
         self.db_connection = None
-        self.subreddit_name = "mindfulness"
+        self.subreddit_name = subreddit_name
         
     def setup_reddit_connection(self):
         """Set up Reddit API connection using PRAW."""
@@ -195,7 +195,7 @@ class RedditScraper:
         
         return comment_count
     
-    def scrape_subreddit(self, limit: int = 100, sort_method: str = 'hot'):
+    def scrape_subreddit(self, limit: int = 1000, sort_method: str = 'hot'):
         """
         Scrape posts and comments from the mindfulness subreddit.
         
@@ -272,12 +272,11 @@ class RedditScraper:
 
 def main():
     """Main function to run the scraper."""
-    scraper = RedditScraper()
-    
     # Configuration
-    POST_LIMIT = 500  # Number of posts to scrape
+    POST_LIMIT = 100000  # Number of posts to scrape
     SORT_METHOD = 'hot'  # 'hot', 'new', 'top', 'rising'
-    
+    SUBREDDIT_NAME = 'mindfulness'
+    scraper = RedditScraper(SUBREDDIT_NAME)
     scraper.run(limit=POST_LIMIT, sort_method=SORT_METHOD)
 
 if __name__ == "__main__":

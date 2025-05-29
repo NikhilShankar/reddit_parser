@@ -1,0 +1,998 @@
+{
+  "total_topics": 38,
+  "total_documents": 2,
+  "sample_note": "Analysis based on high-quality sample for speed",
+  "outliers_count": 0,
+  "tier_distribution": {
+    "tier_1_major_needs": 10,
+    "tier_2_secondary_needs": 21,
+    "tier_3_niche_needs": 7
+  },
+  "application_insights": {
+    "primary_user_needs": [
+      "Topic 0: time, don, people, things",
+      "Topic 1: book, read, books, reading",
+      "Topic 2: posts, fucking, post, subreddits",
+      "Topic 3: age, life, young, old",
+      "Topic 4: sugar, eat, food, eating",
+      "Topic 5: money, profit, years, year",
+      "Topic 6: porn, sex, addiction, sexual",
+      "Topic 7: cold, shower, water, discomfort"
+    ],
+    "secondary_opportunities": [
+      "Topic 10: teeth, brush, brush teeth, water",
+      "Topic 11: 20, 80, beginner, hours",
+      "Topic 12: math, college, learning, school",
+      "Topic 13: drinking, alcohol, drink, everyday",
+      "Topic 14: saved, later, read, save",
+      "Topic 15: book, podcast, finished, videos",
+      "Topic 16: sugar, eating, fruits, blood",
+      "Topic 17: relationship, love, let, past"
+    ],
+    "niche_features": [
+      "Topic 31: dog, dad, best, taking care",
+      "Topic 32: helps, yes, studies, link",
+      "Topic 33: app, phone, click, search",
+      "Topic 34: needed, sentences, nbsp, post",
+      "Topic 35: stoic, modern, philosophy, podcast"
+    ]
+  },
+  "topics": {
+    "0": {
+      "topic_id": 0,
+      "count": 3571,
+      "tier": "Tier 1 - Major User Need",
+      "analysis_depth": "comprehensive",
+      "top_words": [
+        "time",
+        "don",
+        "people",
+        "things",
+        "work",
+        "day",
+        "sleep",
+        "doing",
+        "adhd",
+        "good"
+      ],
+      "representative_docs": [
+        "I second the comment above. Your post screams emotional and parental neglect. Even if your parents weren't abusive or mean to you, they did not spend time with you - which is incredibly important for a child's development, whether we like it or not. Did they encourage you to have hobbies, follow a routine, seemed involved in your life, or told you to hang out with other kids or family? If not, you might have had a very lonely childhood and used electronics to distract yourself from boredom and loneliness. I was the same, so I was on my computer all day. I had zero reprecussions because my parents let me do anything and I had no schedule. I'd say things like, \"I can play my games all day because no one will tell me to stop, I don't have a routine to follow so I can just scroll, I don't have school so I can just watch TV.\" This absolute freedom/lack of routine made it hard for me to adjust to routines, but I am getting better because I'm on Vyvanse or have calendars to keep track of stuff. I also have to actively remind myself of what I want to achieve, and also the consequences if I don't finish my tasks on time. Maybe try this, too. You still have the time to be curious and to explore your hobbies. Try to give yourself a rigid routine and have a journal of what you accomplished or are trying to accomplish. Try to get in a new enviornment (go to a library, cafe, park, join a club etc.) to focus on work, a hobby, etc. Studies show that your environment is very important for productivity and mental health. You're more likely to play games in your room all day instead of a cafe. Give yourself grace, too. If you don't get rid of negative talk, you will stay in the same spot. If you can afford it, see a psychologist who can diagnose you or a psychiatrist who can give you medication for whatever condition you're diagnosed with. And don't forget this: you still deserve friends if you think you are boring, inexperienced, or behind people. A real friend would accept you for who you are, and you can always find new ones, but you have to put in the work and put yourself out there. Sorry for the long post, but I just wanted to let you know you aren't alone and it's good that you recognize your issues now. Start now. Good luck.",
+        "This is an extremely important / valuable / interesting question that most people do not have the answers for. - 80% tend to fail a life change within 2 weeks according to stats from Strava.com (a correlational study with 200M people) Most habits take a few months to set in, many GUESS ('everyone is different') from 2 to 8 months. I tell everyone six months because half a year is an easy 'benchmark' to remember. - the best determinant to quitting a 'bad' habit is KEEP TRYiNG. If you know you will fail 95% of all your attempts, the AA mantra of *One Day At A Time* is your best tool. Instead of believing you are quitting or starting a habit, imagine you are designing an inner trend and making a Self Design / Inner Marketing vehicle or platform. Give it a brand and market it to yourself. You are your very own Cult Of One. I re-watch this annoying and really well made video: You've got this! - enlist help!! Cialdini wrote the six (then seven) factors of 'Influence' and nearly all of them pend not on food or sex or individual cravings but on the approval and congruence of others. Look at them! Long story short: recruit people to do whatever you want and, tragically, spend less time with people who do stuff you don't want. This is horrible! You may abandon your adorable and wonderful friends just because they are overweight - and this may easily save your life. Isn't that just... miserable? Look at the Harvard study on this one: That said, if you keep your fat friends you can save their lives by getting them to work out and lose weight. Think about it: in Japan they have a LOT less obesity. Try to keep clear of the minefield of 'body image'. Yes, being pretty or sexy or fitting in are powerful motivators, but you just want to avoid dying of heart attacks / strokes / diabetes. Many people want to lose weight and end up getting larger and feeling terrible about it - and then they join fat groups so as to feel normal again. This is a huge thing in the US! Being overweight feels like a losing battle and you end up being overweight AND feeling horrible about yourself. The struggle is real and this leaves millions feeling abandoned, traumatized and alone. REMEMBER: individuals have failed to change habits for thousands of years but religions &/or jobs have succeeded in changing minds and bodies for millenia. If you require yourself to do something for something greater (i.e. 'unified peer group'), you will change. Example: everyone in Japan used to have to do exercises together at the beginning of the day. Not that everyone lost weight, but everyone worked out and everyone became healthier. Pre-covid this was common? Post covid, i can no longer find an article. I think some companies dropped this? My point is that companies and religions can institute incredible behaviour with powerful results (for 'better' or 'worse'). There is a LOT of bad stuff out there, but remember that yoga is a religious exercise, as is a lot of religious socialization. Corporations and faiths do not have to be universally evil as uniionized and secular experience often experience. Yes, i get that corporations are by definition psychotic. But your cults and work-situation will determine who you are a LOT more than you can ever manage. Edit: James Clear does amazing stuff on all the habit tips but he tends to scrimp a little bit on the impact of 'being social'. Don't just 'find friends who do your trends' but find intire institutions. Then you can do your failures over and over and they will pick you up and put you back on your wagon or vehicle for change. In the end, all of us are rewarded with the same permanent death, so try not to take it so seriously. We are all born fresh with someone and die old and usually alone / be kind to one another.",
+        "do your 'bedtime' routine like an hour before bed. this makes sure you actually get it done instead of it getting too late and saying 'eh fuck it not doing it tonight.' AND after you've done it, you can TRULY relax as you have literally nothing left you can really do that day but chill, get tired, and go to bed. whenever there's anything you gotta remember, set an alarm to remind you with an estimated time that will be enough in case you forgot. as soon as you find yourself thinking \"that's so important i won't forget it' that's when you need to set an alarm, write in your calendar, whatever. that way NEEDING to remember it isn't hanging over you. instead of keeping your vices around and trying to use willpower etc. to resist them, keep them as far away as possible. eg. for me, just keeping ice cream in my freezer and only having a little bit at a time is a no go. instead i just never buy it. and not only do i never buy it, i don't even look at it in the grocery store. keep it the most out of sight, out of mind possible. if you have trouble getting out of bed in the morning, set up a morning routine for yourself that makes you WANT to get out of bed. don't try to suddenly muster up more discipline and willpower than you've had before. lean INTO your animal instincts. make it IRRESISTIBLE to do the things you know you need to do but sometimes don't want to. get a great breakfast with a nice drink, nice soaps in the shower, nice music, etc. and you will find yourself slinking out of bed nice and early like a dog at feeding time. get yourself nice workout gear, a nice gym bag, nice equipment, etc. and you will find yourself more excited to work out because you get all that comfy and cool stuff. if you dread going to work maybe keep some snacks there that you are \"only allowed\" to have there and you can build some positive associations with it. pretend that one week from now, you will have a huge 'unforeseeable' problem. what current problems do you not want hanging over your head while you deal with that issue? do it now, get it out of the way before the other annoying thing happens! you don't want your problems compounding after all. And many times throughout your life you will actually be correct in imagining some huge deal you 'do NOT have time for right now' is about to happen. a lot of people have problems in life because they fundamentally feel disconnected from their future selves. 'oh that's a problem for FUTURE me' or 'well this may be a problem now but i'm sure in the future i will magically be more capable, energetic and disciplined and deal with it then. yeah...' instead of giving your future self problems, do them favors. and think of things you can be grateful to your past self for. do things your future self will thank you for. if there's anything you 'must do' every day, try to do it as early as possible, not just to get it out of the way but to have the satisfaction of knowing you've done your most important stuff for the day already."
+      ],
+      "topic_label": "Topic 0: time, don, people, things",
+      "application_priority": "High Priority - Major User Pain Point"
+    },
+    "1": {
+      "topic_id": 1,
+      "count": 245,
+      "tier": "Tier 1 - Major User Need",
+      "analysis_depth": "comprehensive",
+      "top_words": [
+        "book",
+        "read",
+        "books",
+        "reading",
+        "habits",
+        "james",
+        "recommend",
+        "james clear",
+        "self help",
+        "self"
+      ],
+      "representative_docs": [
+        "This book is one of the non-fiction books I'm going to read next",
+        "If you had to read only 1 of these books, which one would you read. I haven't read a full book in over 8 years.",
+        "I answered a similar question a while back which I'll copy here: > I think many books and ideas can be summarized into just a few sentences. I recently read Mindset: The New Psychology of Success by Carol Dweck and it can be summed up by saying there are two main ways of thinking, the growth mindset where you believe you can grow, and the fixed mindset where you think you can't. Growth mindset people do better. Have a growth mindset. > Part of the point of the book is to get you to believe that. Do you believe it just because I said it in a summary? Part of the book is to tell you why it matters. Part of the book is to help you change your mindset. A whole chapter on that actually. It's unlikely that you will get as much from my couple sentence summary as you will reading the whole book. Will you get as much out of it as you think your time is worth? Who knows. > Another thing I've learned is that you don't need to get tons and tons of ideas out of every book, podcast, or seminar. Jim Rohn says these things are like dialing in the numbers of the lock. Sometimes you already have three numbers of the combination and you just need one more to get things opened for you. I was familiar with the growth and fixed mindset before reading the book. I thought I was a growth mindset person. I mean I'm reading self help books and listening to seminars. I wouldn't do that if I didn't think I could grow, right? Seems like a waste of time otherwise. One thing she said in the book was that you could be growth minded in some areas and fixed in others. That was a big revelation for me because I had always said I wasn't artistic. I always joked that I was \"math and science\" when I spelt something wrong or came up with a bad UI design and passed things off as being \"right brain vs. left brain\". She talked specifically in the book about art and this book Drawing on the Right Side of the Brain. > Now I haven't done anything with that specifically yet but it was a pretty big revelation for me. That's one little thing, that easily could have been left out of a summary, that can make a big difference. > In general I'm not reading a book to get 100 new ideas. I'm reading a book to understand why, learn a few new tricks, learn one or two great ideas, or just to be inspired. Sometimes it's enough just to read something positive on my way to work. Remember too that a lot of this is in the doing. I scanned through the Derek Sivers page linked below and was reminded of something from Darren Hardy's *The Compound Effect*: “You already know all that you need to succeed. You don’t need to learn anything more. If all we needed was more information, everyone with an Internet connection would live in a mansion, have abs of steel, and be blissfully happy.” So if you feel you're wasting your time reading stop reading and start doing. At the same time though I don't mind slowing down because if I were to only read summaries of books I would be reading much faster than I could implement. I'm already not implementing everything anyway."
+      ],
+      "topic_label": "Topic 1: book, read, books, reading",
+      "application_priority": "Low Priority - Niche User Interest"
+    },
+    "2": {
+      "topic_id": 2,
+      "count": 103,
+      "tier": "Tier 1 - Major User Need",
+      "analysis_depth": "comprehensive",
+      "top_words": [
+        "posts",
+        "fucking",
+        "post",
+        "subreddits",
+        "sub",
+        "reddit",
+        "op",
+        "self help",
+        "comments",
+        "sell"
+      ],
+      "representative_docs": [
+        "I've successfully stopped responding to comment threads on Reddit posts",
+        "I'm a bot, *bleep*, *bloop*. Someone has linked to this thread from another place on reddit: - [] [NickPlusYou's Results Lists in \"All the top posts of the top self-help subreddits of all time in one cheatsheet\" \\[xpost from r\\/getdisciplined\\]]( - [] [\\[Method\\] I summarized all the top posts of the top self-help subreddits of all time into a cheatsheet.]( - [] [\\[getdisciplined\\] 04\\/05\\/19 - \"\\[Method\\] I summarized all the top posts of the top self-help subreddits of all time into a cheatsheet.\" by \\/u\\/NickPlusYou]( - [] [\\[Method\\] I summarized all the top posts of the top self-help subreddits of all time into a cheatsheet.]( - [] [\\[Method\\] I summarized all the top posts of the top self-help subreddits of all time into a cheatsheet.]( - [] [\\[Method\\] I summarized all the top posts of the top self-help subreddits of all time into a cheatsheet.]( - [] [\\[Method\\] I summarized all the top posts of the top self-help subreddits of all time into a cheatsheet.]( - [] [\\[Method\\] u\\/NickPlusYou summarized all the top posts of the top self-help subreddits of all time into a cheatsheet.]( - [] [\\[Method\\] I summarized all the top posts of the top self-help subreddits of all time into a cheatsheet.]( - [] [\\[Method\\] I summarized all the top posts of the top self-help subreddits of all time into a cheatsheet.]( &nbsp;*^(If you follow any of the above links, please respect the rules of reddit and don't vote in the other threads.) ^\\([Info]() ^/ ^[Contact](/message/compose?to=))*",
+        "Since the reason these posts exist is that it is a prevalent problem that shouldn't be ignored and the fact that there are plenty of posts discussing it on this sub, I suggest we find some mechanism to redirect these posts to the wiki where helpful posts could be listed or where we could point to more relevant subreddits. Make it a rule to check this wiki before posting these questions. Looking at the posts, its true there are a lot of them. Since the issue has already been addressed several times, I think we would definitely gain from letting other topics surface."
+      ],
+      "topic_label": "Topic 2: posts, fucking, post, subreddits",
+      "application_priority": "Low Priority - Niche User Interest"
+    },
+    "3": {
+      "topic_id": 3,
+      "count": 93,
+      "tier": "Tier 1 - Major User Need",
+      "analysis_depth": "comprehensive",
+      "top_words": [
+        "age",
+        "life",
+        "young",
+        "old",
+        "year",
+        "got",
+        "perspective",
+        "30",
+        "older",
+        "late"
+      ],
+      "representative_docs": [
+        "Guys, I know these types of posts can be tiring, but it’s tough to have perspective of someone older when you aren’t older. Especially todays day where you make major life changing decisions on education and finances at just 19-20 years old. If you make a bad decision it can very much seem like the end for someone in that position, and if you miss those decisions, it can seem like you missed your chance at it. Asking someone to understand what it’s like to be older when they are in fact young without asking any questions doesn’t change anything. How can we ask someone to think like an experienced person without any experience. I think if you are young and ask this question and get relief from answers from more experienced people, that’s a good thing.",
+        "This is awesome! It’s so incredibly true. People with the most fucked up backgrounds and stories are often the most incredible people because they have perspective on how hard life can punch you in the mouth. But life is also beautiful and 21 is way too fucking young to throw in the towel. Never give up. Be yourself. Own your past and build your future. There is nothing more gratifying in life than looking back 8 years from now when you are about to turn 30 and see the life you built for yourself. Start now. I’m here if you need anything.",
+        "Dude. 21 is the PERFECT age to turn everything around. Sure, it’s never too late, but 21 is awesome because for you personally, you’re already so far ahead of your peers. Lots of people your age are just beginning their alcoholism. You’re already beating it. It’s soooo much better to get a lot of mistakes out of your system early and you have! Look around, many of the kids your age will be worse off in ten years than you are now! Why? Because tomorrow you’re gonna get up and kick some ass, knowing your worst is already behind you and you’re running past everyone else!"
+      ],
+      "topic_label": "Topic 3: age, life, young, old",
+      "application_priority": "Low Priority - Niche User Interest"
+    },
+    "4": {
+      "topic_id": 4,
+      "count": 84,
+      "tier": "Tier 1 - Major User Need",
+      "analysis_depth": "comprehensive",
+      "top_words": [
+        "sugar",
+        "eat",
+        "food",
+        "eating",
+        "taste",
+        "added",
+        "bread",
+        "fruits",
+        "lot",
+        "diet"
+      ],
+      "representative_docs": [
+        "I've been trying to watch my sugar intake last couple of weeks and I found 2 things that helped me a lot to reduce the amount of sugar and cravings. 1) Bake as much possible stuff yourself, without sugar. This is the first week where I didn't make my own banana bread, and I noticed. My cravings went up like a madman, and I ate a whole chocolate bar that I got from work. The banana bread (with added dates, nuts, and other goodies) fills that. 2) More complex carbs and proteins reduces my cravings by a TON. So I've been adding one protein shake per day to go after my lunch around 3PM and it lasts me until dinner. When I have dessert which is yoghurt or quark with fruits, there is always some sugar in it. But I guess the better option is to cut out stuff like cookies and cake a lot more.",
+        "It’s important to note that there is more nuance to fasting and keto. Getting into full on ketosis usually happens once glycogen has been completely depleted. The process in the body leading up to that point, especially with a typical western high sugar diet, will be pretty rough with all sorts of irritations to go along with blood sugar spikes, etc. But if you do decide to investigate keto/fasting. It is absolutely the best feeling to not have all of the hunger/sugar impulses attacking you nonstop. I would add a lot of peoples impulse issues are heavily intertwined in sugar cycles and dehydration.",
+        "Avoiding sugary desserts, yes. But also stuff with added sugar. We are not as picky as I am sure others are, if sugar is something like the 6th ingredient in a sauce I wouldn't automatically skip it. However, I will pass if it is in the top ingredients, which means we make our own ketchup. Watch out for a form of sugar being listed 4th, 7th, and 8th (as an example). Add those up and it'd probably be 2nd in the ingredient list. Unless you are diabetic or similar and need to, I sure wouldn't avoid fruits!!! I at least am just talking about refined sugar, or it's highly processed substitutes. Those are not anywhere close to being natural. I suppose our allowances for honey and to a lesser extent pure maple syrup may not be the best either in some people's view, but we do those in moderation. On fruit juices...I don't buy orange juice even if it is 100%. Way too many oranges were used to make that OJ and you are getting an awful lot of fructose in concentrated form that way, with no fiber to slow down the absorbtion. What I do do, since I LOVE orange juice, is peal an orange, put 1/8 cup of water and a couple of ice cubes (I like it cold) in a Vitamix and blend for 6-8 seconds on high. The pulp/fibers are needed to help you digest it normally, instead of having the juice of X many oranges go directly to your blood stream with no fiber to slow it down. A good book to check out is The Case Against Sugar by Gary Taubes, it is quite eye opening and the original research for that book predates a lot of the anti-sugar diets that are coming out now. BTW, a lot of desserts can still be made, just do so without using refined sugar or chemical sugar substitutes. Actually, if you haven't ever had frozen bananas blended up in a Vitamix or similar high powered mixer (with or without some other ingredients) you'd be surprised at how creamy and tasty it is. Funny enough, it doesn't even taste like banana! My wife also makes ice cream with just whole milk and one or two other natural ingredients...one being honey (or is it maple syrup?) to get the sweetness. She also has a carrot cake she does that has no sugar in it that people would be hard pressed to identify as being sugar free."
+      ],
+      "topic_label": "Topic 4: sugar, eat, food, eating",
+      "application_priority": "Low Priority - Niche User Interest"
+    },
+    "5": {
+      "topic_id": 5,
+      "count": 78,
+      "tier": "Tier 1 - Major User Need",
+      "analysis_depth": "comprehensive",
+      "top_words": [
+        "money",
+        "profit",
+        "years",
+        "year",
+        "broke",
+        "people",
+        "born",
+        "don",
+        "successful",
+        "saying"
+      ],
+      "representative_docs": [
+        "I can answer that . . . FOR MONEY.",
+        "Please don't gift your money to a billion dollar company.",
+        "Somewhere between 1 & 2 years. The hard part would be laundering the money."
+      ],
+      "topic_label": "Topic 5: money, profit, years, year",
+      "application_priority": "Low Priority - Niche User Interest"
+    },
+    "6": {
+      "topic_id": 6,
+      "count": 75,
+      "tier": "Tier 1 - Major User Need",
+      "analysis_depth": "comprehensive",
+      "top_words": [
+        "porn",
+        "sex",
+        "addiction",
+        "sexual",
+        "quit",
+        "plan",
+        "sub",
+        "people",
+        "bad",
+        "use"
+      ],
+      "representative_docs": [
+        "Well done man. Fapping without porn deserves more recognition",
+        "Is there any consensus among psychologists when it comes to this? It seems like a wierd internet culty thing to me. It just sounds like conservative denial of sexuality. Masturbation is normal and healthy. Porn addiction is real but having sexual needs isn't porn addiction. Like there's nothing wrong with ascetism but seeing is as the default is just bad Edit: also masturbation doesn't necessarily involve porn, if porn is the problem for a person.",
+        "PORN PORN PORN I MUST COOM! I CAN’T GO 5 MINUTES WITHOUT JERKING MYSELF TO POOORN! MY CRIPPLING PORN ADDICTION CAN’T BE HELPED! I NEED BIG BOOTY LATINAS NOW!!!"
+      ],
+      "topic_label": "Topic 6: porn, sex, addiction, sexual",
+      "application_priority": "Low Priority - Niche User Interest"
+    },
+    "7": {
+      "topic_id": 7,
+      "count": 60,
+      "tier": "Tier 1 - Major User Need",
+      "analysis_depth": "comprehensive",
+      "top_words": [
+        "cold",
+        "shower",
+        "water",
+        "discomfort",
+        "hot",
+        "warm",
+        "start",
+        "willpower",
+        "taking",
+        "seconds"
+      ],
+      "representative_docs": [
+        "My friend takes a cold shower and says everything he is grateful for starting inwards and going out so like from \"clean water, apartment, stuff, friends, family\" outwards to the whole society. He doesn't do the cold shower just for the supposed benefits but for the dopamine discipline, because it's really hard. Think the cold shower might be too hard for me but ima try doing the grateful thing.",
+        "3 tips from someone who's been dong it for years: \\- Start by just finishing it cold. Take your regular shower, but for your final rinse, use cold water \\- you don't have to have the water in the coldest setting. Where I live, cold water is literally numbing after a short while. Make it challengingly cold for sure, but allow yourself to get used to really.cold water overtime. \\- it's all on your breath. Do physiological sighs (2 inhales, 1 exhale) for 1-2 min and once you start with your cold water, control your breathing.",
+        "Cold showers are a great service to vitalizing yourself (or, myself, anyway), but for those of us who aren't polar bear swimmers and can't take the instant cold, starting the shower warm then working up to cold works too."
+      ],
+      "topic_label": "Topic 7: cold, shower, water, discomfort",
+      "application_priority": "Medium Priority - Common User Need"
+    },
+    "8": {
+      "topic_id": 8,
+      "count": 54,
+      "tier": "Tier 1 - Major User Need",
+      "analysis_depth": "comprehensive",
+      "top_words": [
+        "women",
+        "men",
+        "girlfriend",
+        "empathy",
+        "angry",
+        "feel",
+        "relationship",
+        "compassion",
+        "space",
+        "partner"
+      ],
+      "representative_docs": [
+        "I get that you want to stay grounded and maintain inner peace, which is understandable. But I think you might be missing an important part of what your girlfriend is expressing. Anger isn’t just a personal burden—it’s often a rational response to systemic injustice. You mention that you prefer to focus on your “circle of control and influence,” but for marginalized groups, that circle is often artificially constrained by external forces. Your girlfriend’s anger isn’t just about frustration; it’s about naming and resisting those constraints. You seem concerned that anger isn’t “helpful,” but that’s a subjective judgment. Historically, anger has been a powerful force for social change— e.g. feminist movements, civil rights, labor rights etc. It doesn’t have to be the only approach, but dismissing it in favor of empathy and compassion alone can feel like tone-policing, even if that’s not your intention. I remember when black lives matters protests happened, and I expressed frustrations in front of my friends - and they were only concerned by how I said it and how it made them feel, not what I was saying. As a minority, it told me we not only had to “accept” being discriminated against, but that we weren’t allowed to be upset or angry about it- to save other peoples feelings, those already in places of privilege. It’s valid that you want emotional safety in your relationship, but consider what safety means in this context. Does it mean simply avoiding difficult emotions? Or is it possible to create safety by allowing space for your girlfriend’s anger, even when it’s uncomfortable? Can you hold both validate each others ideas at once—that inner peace is important and that anger has a role in justice? Ultimately, navigating this difference may be less about changing each other’s minds and more about sitting with the discomfort and understanding where it comes from.",
+        "Anger is a valid feeling and she’s allowed to have it and express it in a healthy manner. Some of this for women (like myself) is so deeply personal and ingrained due to the inequalities and injustices we have faced on a daily basis that it cannot even be explained away rationally to someone who has never faced it. Sometimes I feel anger because of that very reason, that my male partner will never know what it feels like. Not that I want men to go through what we went through but at the same time I do so they can have empathy. Women have always had empathy, especially for men, and it’s become this unjustifiable expectation that even when women are allowed to be angry, they’re supposed to be empathetic. Yes, empathy is important but you don’t get to tell her that she needs to have more compassion and empathy to bring about change when really, that’s all women have shown all along, and women just got trampled for it by men. Most men only respond to anger from other men. It is valid that she feels that maybe men will respond to anger from women too. Men have always had the space to express their anger and have it be praised and applauded while women have always had to hide that part of themselves. I think if you really wanted to make this relationship work, you’d be allowing her to be who she needs to be without policing her anger and her feelings towards men. I had a similar issue with my partner, but my partner just allowed me to feel as angry as I do and validated my feelings (so long as I wasn’t being abusive) and over time some of that anger dissipated especially around him because he showed me that men can be different. They can be patient and understanding and kind and allow me the space to be who I need to be without making it about themselves. She may never feel that her anger is fully gone but over time, with your patience and compassion, she may not feel the need to make adverse remarks about men around you because you make her feel safe.",
+        "I agree with abelhaborboleta ('Your girlfriend's feelings are not within your sphere of control. You're trying to get her to stop feeling angry, but that's outside of your control. What's \"right\" for you is not universal. If you don't want to talk about women's issues, then set clear boundaries without the moralizing/trying to convince her you're right. Honestly, you may not be suited for each other.'). Like your girlfriend said, she is frustrated to the point that she knows her anger is not helpful (that's why she finds your approach \"admirable\" / a good thing beyond reach), but that does not really matter, because regardless of what she does (\"helpful or not does not matter\"), all the things she hates and go against who she is and what she wants happen all the time. Those are simply facts, and denying them does not change them. It is truly disheartening / eroding to find that, even when you manage to 'lift' stuff to a normal, humane level, there's a nameless multitude whose constant attacks simply destroy (with no effort) something that you wish came naturally but no longer does, and requires a lot of energy. I am in a similar situation and no longer spontaneously feel / react with compassion the way I used to, which worries me, and feels like a shocking loss. It looks like you are in very different situations, and you are trying to appeal to her, so as to not lose the relationship, because you like her, and you are glad she is part of your life. And this is a guess, but this looks like something that could be a relatively minor issue in other contexts. Perhaps you feel she does not listen / respond positively to your needs in a wider context, but find hard to pin down exactly how. I think she might be attacking you too, and that may hurt you in the long run. I think you may realize that and have a vague / diffuse feeling of mistrust and unease, but feel something is not right, and want to know if it is legit to want to 'move away / protect yourself', because in a sense you are asking for the opinion of others about whether it is right for you to place boundaries. \"I also want to be in a relationship where I feel emotionally safe and aligned\". It really looks like you could drop \"aligned\" and leave \"safe\". With some people, safety does not come from alignment (if no alignment means no safety, there is a demand for compliance, a threat, not a good sign). One of the few things you mentioned is 'I know my privilege...', which is an expression of guilt, and that feeling is a response to an attack. It's not about feminism (this might be silly, but most of my feminist friends are not brooding and simmering in self destruction like that!), considering the way she choses to prioritize her expectations about other people's behavior and her need to 'come back at them' instead of a need to preserve her own integrity. Anger and resentment are different things: one comes from objections to situations you consider unacceptable, and the other from wanting something from people you do not respect / do not love, and not feeling the need to look for love / welfare (because otherwise her reaction would be to say 'this is sickening, I want no part in this'). Both are common in feminists I know, and they look different. For instance, two friends were very close to each other. One is (so to speak) frustrated because she is not as cool as she wanted to, so she constantly 'picks on other people's skin', complains about her mother but acts the same (being controlling), and only thinks about 'cool and not cool' (nightclubs, being resentful towards canonically cool girls, and dating alternative cool boys - who are inconsiderate and 'grabby' like the regular ones, but wear a different brand of clothes and name-drop authors). Her best friend is just as deppressed / upset with the way things are at work, the country, and so on, but her reactions are different - when she sees some small cooperative force, her instinct tells her to foster it, to be kind back, to seek safety, and to preserve the parts of herself that have nothing to do with the world's violence. That's just one (perhaps) comical example, because they are best friends and the amount of unfairness they face is the same and comes from the same place. We people choose, even when we are so deep in own bad will that we don't realize we're choosing. I don't know you two, and perhaps you tried to moralize her about her anger or whatever, or perhaps that's really the only issue and she sometimes vents and you do not 'tend' to her when she vents, but that does not seem to be the case, from your text at least, and the situation does not look good. Facing loss and separation is difficult, and I wish the best for you two, but if you find things get worse and worse, and your feelings get worse and worse, without things stopping and coming to a resolution, you should really step out."
+      ],
+      "topic_label": "Topic 8: women, men, girlfriend, empathy",
+      "application_priority": "Low Priority - Niche User Interest"
+    },
+    "9": {
+      "topic_id": 9,
+      "count": 51,
+      "tier": "Tier 1 - Major User Need",
+      "analysis_depth": "comprehensive",
+      "top_words": [
+        "write",
+        "writing",
+        "paper",
+        "thoughts",
+        "helps",
+        "piece",
+        "fine",
+        "bad",
+        "page",
+        "ve"
+      ],
+      "representative_docs": [
+        "Thanks for the tips; I have a question: what do you exactly write about in your journal? I always struggle finding something to write about. I dont like keeping a diary, and writing stories is fun but requires a lot of time and energy. So whenever i sit in front of my notepad of laptop to write something, I get discouraged and give up",
+        "For me, it helps to write out these thoughts. Maybe make a to do list. If I don't put it on paper while I'm thinking of it, I'm afraid I'll forget.",
+        "Literally just write about how you don't know what to write about. Then write about how you're writing about it. Then write down the next thought, and the next one, and the next one. There is no weight to your words, no one will read them, you won't be judged by the things you write unless done to yourself. Get the thoughts out of your head and on to paper!"
+      ],
+      "topic_label": "Topic 9: write, writing, paper, thoughts",
+      "application_priority": "Low Priority - Niche User Interest"
+    },
+    "10": {
+      "topic_id": 10,
+      "count": 42,
+      "tier": "Tier 2 - Secondary User Need",
+      "analysis_depth": "moderate",
+      "top_words": [
+        "teeth",
+        "brush",
+        "brush teeth",
+        "water",
+        "care",
+        "appointment",
+        "shower",
+        "good",
+        "bathroom",
+        "twice"
+      ],
+      "representative_docs": [
+        "Self-sabotage is a lot more common than people might think; it's less about your teeth and far more about mental health. It's no cure, but it's well worth genuinely asking yourself why you would avoid improving your quality of life, not to chastise or demean yourself but from a place of curiosity without judgement. Self-harming behaviors (inc. neglect) can feel comforting in their own way - even if you know consciously they're not actually helpful - and that false comfort can make it incredibly difficult to make meaningful change if the underlying causes are untouched. I don't really have any specific 'tips' to offer as it's so individual/personal, but a good starting place is to treat it as if you were trying to help a close friend going through the same; with kindness and patience, because you care about them and want them to thrive and be happy. When it comes to brushing teeth specifically, if it's a real hurdle, take it in steps. Rinse your mouth with salt water once a day, then build up to twice. Then brush briefly with just water before rinsing your mouth, then build up to toothpaste. If you can only brush your teeth some days, rinse with salt water instead; it will still build the habit (and improve oral health) far more than aiming for perfection and abandoning the attempt after a 'failed' day. You got this.",
+        "Nah both is good. At least that’s what my dentist says. I got like a floss, water pic, mouthwash and then brush teeth routine going on.",
+        "> taking care of your teeth has become easy for you because you’ve been doing it consistently for a long-ass time. Wrong! I was raised in a middle-class family where teeth were very important. I was taught from a very young age to brush my teeth, and was always forced and checked to make sure I brushed my teeth. However, my parents are toxic and they were horrible in training a kid in a good way to establish good habits. I was a smart kid and I’d do everything to escape brushing my teeth; to the point that I’d go to the bathroom, make the toothbrush wet, maybe chew up a bit of tooth paste, and wait for a while so that they’d think I’m brushing my teeth and then come out. I’m in my 30s with several root canals and multiple fillings. The only reason I brush my teeth nowadays is to avoid spending my salary on a dentist. Otherwise the decades long consistency has not made it any easier for me to do this extremely boring chore. So I disagree with this statement. However, I’m happy it’s been working for you. Keep it up!"
+      ],
+      "topic_label": "Topic 10: teeth, brush, brush teeth, water",
+      "application_priority": "Low Priority - Niche User Interest"
+    },
+    "11": {
+      "topic_id": 11,
+      "count": 40,
+      "tier": "Tier 2 - Secondary User Need",
+      "analysis_depth": "moderate",
+      "top_words": [
+        "20",
+        "80",
+        "beginner",
+        "hours",
+        "better",
+        "practice",
+        "day",
+        "rule",
+        "learning",
+        "skill"
+      ],
+      "representative_docs": [
+        "I think the 80/20 rule as applied to this would refer more to the idea that 20% of what you will ultimately learn will suffice/apply 4/5 of the time. The deeper understanding developed by the other 80% learned will be used much less but will still inform the 20% used most often",
+        "That “feels” right to me. It’s the 80/20 rule. It takes 20% effort to be 80% good, and the other 80% effort to climb that other 20% to excellent. Some of us are happy to do a lot of things at the 80% level instead of one or a few things at the 100% level. It takes all kinds.",
+        "When I had an eBay business, after the first year I reviewed what 20% of products had netted me 80% of profits, and what 80% had only netted 20%. So basically I stopped selling sneakers lol. I halved my workload and doubled my profits by doing so. But 80/20 can be applied to almost anything. What 20% of people in your life give you 80% of the love you share with others? What 20% of your customers cause 80% of your stress? What do you do for 20% of your day that gives you 80% of your positive results? Once you adjust for 80/20, the next step is 90/10, 95/5 and finally 99/1. Imagine if 99% of your clients brought you maximum fulfillment and income, and only 1% were more trouble than they were worth? Food for thought."
+      ],
+      "topic_label": "Topic 11: 20, 80, beginner, hours",
+      "application_priority": "Medium Priority - Common User Need"
+    },
+    "12": {
+      "topic_id": 12,
+      "count": 38,
+      "tier": "Tier 2 - Secondary User Need",
+      "analysis_depth": "moderate",
+      "top_words": [
+        "math",
+        "college",
+        "learning",
+        "school",
+        "logic",
+        "problems",
+        "learn",
+        "course",
+        "class",
+        "student"
+      ],
+      "representative_docs": [
+        "Same. I always say I love math but it hates me",
+        "The good news about math is that there's no mysterious way to become good at it: you just start with a concept you do understand and learn one that expands on it. If something is confusing, look at the part that's confusing and go back and learn that. It's like building a wall out of bricks. This is the same reason people get left behind in the classroom: you can have a spotty grasp of a reading passage or history, but if you miss one math concept, nothing after it will make sense. Kahn Academy is great, because it shows you where you knowledge stops, so you know the exact place to pick things up again. Good luck! I was terrible at math and pushed through to get a math-heavy degree. You can do this.",
+        "It's in the mindset. I hated math and I sucked at it until I discovered a business calculus class. The word problems were real world issues like what's the maximum number of tables a restaurant can hold for maximum profit, and calculate the population of these two cities over time, etc. The problems were more like puzzles to solve than being abstract math with no explanation given for doing it. It probably helped that I'd just finished a course in logic right before taking business calculus. In logic there were if-then and other logical problems that had to be solved. It got me in the mindset of the problems being fun puzzles. I actually enjoyed doing the practice problems. I no longer felt stupid when it came to math. I was the kid who was in remedial math classes up through high school and freshman year of college who could barely pass. Then it clicked for me later in college and I was the kid who was getting the good grades. Good luck on your journey."
+      ],
+      "topic_label": "Topic 12: math, college, learning, school",
+      "application_priority": "Low Priority - Niche User Interest"
+    },
+    "13": {
+      "topic_id": 13,
+      "count": 35,
+      "tier": "Tier 2 - Secondary User Need",
+      "analysis_depth": "moderate",
+      "top_words": [
+        "drinking",
+        "alcohol",
+        "drink",
+        "everyday",
+        "today",
+        "little bit",
+        "little",
+        "bit",
+        "60",
+        "days"
+      ],
+      "representative_docs": [
+        "Can attest, been drinking for 60 days and it's s habit now",
+        "This happened to me when I quit drinking a little over a year ago. I've tried going out a few times but it's a huge struggle, for days after all I can think about is drinking. I just avoid it. And yes, I suppose it's partially my fault for letting drinking become the common interest among my social group and losing all my \"non-drinking buddies\" over the years because of.. my drinking.",
+        "You have to set limits and abide by them. Try a schedule like: Week 1: No drinking on Wednesday Week 2: No drinking Tues or Thursday Week 3: No drinking Tues, Wed, Thursday Week 4: No drinking Mon, Tues, Wed, Thursday Week 5: No drinking Sun, Mon, Tues, Wed, Thurs This way, you can still drink Fri/ Sat nights but you HAVE to stick to it. You can even align yourself to only drinking on special occasions if you're set on keeping it in your life."
+      ],
+      "topic_label": "Topic 13: drinking, alcohol, drink, everyday",
+      "application_priority": "Low Priority - Niche User Interest"
+    },
+    "14": {
+      "topic_id": 14,
+      "count": 35,
+      "tier": "Tier 2 - Secondary User Need",
+      "analysis_depth": "moderate",
+      "top_words": [
+        "saved",
+        "later",
+        "read",
+        "save",
+        "post",
+        "saving",
+        "reddit post",
+        "im",
+        "reminder",
+        "come"
+      ],
+      "representative_docs": [
+        "Saved for.. you know, later.",
+        "Saved. Read, and will re-read again. This is a good one!",
+        "Saved the post. Gonna read later."
+      ],
+      "topic_label": "Topic 14: saved, later, read, save",
+      "application_priority": "Low Priority - Niche User Interest"
+    },
+    "15": {
+      "topic_id": 15,
+      "count": 31,
+      "tier": "Tier 2 - Secondary User Need",
+      "analysis_depth": "moderate",
+      "top_words": [
+        "book",
+        "podcast",
+        "finished",
+        "videos",
+        "dependency",
+        "write book",
+        "ideas",
+        "chapter",
+        "brilliant",
+        "party"
+      ],
+      "representative_docs": [
+        "He didn’t even particularly advocate against it. He was very open about vices including his as it was part of the balance of life. In one of his lectures he explains this misconception most people have of great thinkers and gurus by talking about westerners being stunned when a guru smokes cigarettes or has a girlfriend or drinks. The importance of the concepts he explored and shared with the western world in a time when it was very uncommon aren’t diminished by his addiction. He didn’t advise against alcohol or vices his teachings were about acceptance, relinquishing your anxieties and specifically to live as one is rather than force yourself into an unnatural position, spiritually, mentally and ambitiously normally via a career. Absolutely brilliant man in my personal opinion.",
+        "I think he wrote these when he was 20 and ideal. If \"invite to a party\" is the criteria, I suspect you would have loved him. As for his actual chastity, he fathered about 15 children out of wedlock. He was a party person. He kept 1200 bottles of Bordeaux, champagne, and sherry locked away in his Paris home and wrote the \"Drinkers Dictionary,\" a list of 200 phrases for getting plastered. He was a prodigious writer of drinking songs and was awesome at playing songs on the wine glasses and his 'armonica, one if his inventions. And he could have done with a lot more of the silence he recommended, as he was known for freely discussing highly classified matters and keeping secret papers out in the open. It got him in trouble because he was being conned by a British spy, Edward Bancroft. He never learned of Bancroft's duplicity during his lifetime. He tortured his neighbors by taking \"air baths\" naked and outside. If he lived today, he'd probably be here on Reddit -- a famous troller, but his media was the pamphlet.",
+        "No one escapes tragedies in life. He had unknowingly developed a physical dependency on the sedative clonazepam, prescribed by a family doctor to treat his severe autoimmune reaction to food. His dose was allegedly increased after his wife was diagnosed with kidney cancer. Clonazepam is a benzodiazepine. A simple search will reveal the effects of becoming dependent on it, and the horrifying effects of suicidal tendencies. He was put in a medical-induced coma in Russia to help him battle the dependency. He is not back to normal and writing a new book. His books are heavily backed by science and research and have helped a lot of people. His political opinions may be controversial to some, but he has very practical advice on learning how to live your life and become stronger - a trait which was passed on to his daughter Mikhaila. I'd totally recommend Jordan Peterson. He has brilliant advice without the \"frills\" and cuts the crap."
+      ],
+      "topic_label": "Topic 15: book, podcast, finished, videos",
+      "application_priority": "Low Priority - Niche User Interest"
+    },
+    "16": {
+      "topic_id": 16,
+      "count": 29,
+      "tier": "Tier 2 - Secondary User Need",
+      "analysis_depth": "moderate",
+      "top_words": [
+        "sugar",
+        "eating",
+        "fruits",
+        "blood",
+        "eat",
+        "drink",
+        "drinking",
+        "remove",
+        "quickly",
+        "versus"
+      ],
+      "representative_docs": [
+        "You’re wrong. The study shows that your blood sugar spikes less when eating blended fruit compared to whole fruit.",
+        "Blended fruit is no different than whole fruit. If you eat 3 whole strawberries your blood sugar will be the same if you blended 3 and drank them. Any studies that say otherwise are misleading. Edit: There is a study done on this, and the results actually show that blended fruit spikes blood sugar LESS than eating whole fruit.",
+        "Hi, diabetic here. Juice or smoothies absolutely are digested more quickly than whole fruits. Yes, partially due to fiber but also simply the medium. The same way you’re likely to get less bloated eating a vegetable soup than chewing vegetables, your body needs to breakdown solids into liquids rather than it having it pre-broken down. Smoothies do retain fiber, but juice usually does not as pulp is strained. I mention being diabetic because we are told to drink juice or liquids to raise blood sugar quickly versus eat an apple or banana simply because the response time to the body (blood sugar being raised) is faster with the liquid and the concentration of sugars is high generally as well particularly with juices - you can drink the juice of 3-4 apples much more readily than eat 3-4 whole ones. Most people can eat more of something on liquid form or even cooked form than raw form. Water and therefore volume is expelled as things are cooked, when things are chopped into tiny pieces in a smoothie, volume decreases though not as much as cooking of course. This is also something you can easily ask ChatGPT about or google, but maybe don’t insult strangers over the internet."
+      ],
+      "topic_label": "Topic 16: sugar, eating, fruits, blood",
+      "application_priority": "Low Priority - Niche User Interest"
+    },
+    "17": {
+      "topic_id": 17,
+      "count": 29,
+      "tier": "Tier 2 - Secondary User Need",
+      "analysis_depth": "moderate",
+      "top_words": [
+        "relationship",
+        "love",
+        "let",
+        "past",
+        "woman",
+        "sex",
+        "years",
+        "tough love",
+        "doesn",
+        "loved"
+      ],
+      "representative_docs": [
+        "I am gonna be brutally honest with you, as I have been in your shoes many years ago and in hindsight I am kinda disappointed in myself for how long it took me to realize this. You don't take anything more from this than that he was not the right fit for you and everything he did afterwards is none of your business anymore. You know what keeps you from letting go? You don't want to. Why? Because you don't value yourself at all. You lack selflove. I know this sounds like I am attacking you, but it is what I realized myself. I couldn't let go of someone before because I couldN't let go of that damn fantasy of a life together that I was holding on to for many years while being with her. I wanted that so much and to acknowledge to myself that that was just a fantasy in the end was brutally difficult. But that is what you have to do. You need to find some selfesteem, build yourself up again, go to therapy, get back in shape, get among people and ALLOW yourself to feel your emotions WITHOUT letting them hold you down. You can be hurt, you have every right to be. But it is your choice if you want to hold on to whatever fantasy you build around this man or to let it go and face reality. That is he gone, that you guys are over and that you deserve a lot better than what you got. You didn't waste any years. This is life, life is unpredictable, We could all be dead tomorrow in the end. Your choice now is whether you want to keep holding on to a fantasy that will never be real or take over the reins of your own life again and make the best out of the time you have. I know its tough love, but you gotta snap out of it and see it for what it is.",
+        "With all due respect, this love of your life thing is just bullshit mate and you simply use it as fuel for your melancholy that you are drowning yourself in. I know this is harsh from me, but I know because I was in the same spot half a decade ago. I thought I lost my best shot at lifelong happiness blabla. In reality (and after loads of therapy) it was just my way of coping and trying hard to brainwash myself so I don't have to face reality. One could argue that after 4 months of relationship coming around with marriage and children etc is a big too fast. For me that would be a redflag. Given she just jumped to the next guy within a couple months only shows that she was not in it for you, she was in it for a man to provide her with a stable life. Fair enough. I had to break up with someone I loved dearly when I was 28. It took me years to get over her. Nowadays I know that I put her on a pedestal, I idolized her and what I was actually struggling to let go of was not the person, it was the idea I had of that person and the fantasy of a future together with her. I griefed something I wanted to have and hoped for to have with that person, not the actual relationship. Nowadays, I spent years working on myself physically and mentally, got to a point where I was actually happy being single and by myself and voila - met the most amazing woman ever while being at the gym. Healthy, intelligent, succesful, funny, loyal and on top of it incredibly beautiful and hot. Our sex is 10/10, love is strong, we talk about everything, have no secrets. Looking back to myself pitying myself for years because I felt like I missed my shot at a happy life feels really pathetic to me. I was holding myself back the most and I read a lot of that in your text. I hope I did not offend you, but I kinda needed this type of tough love back in the day and hope it can help you see things from a different perspective. And if you are not ready for that, that is okay too. I was not ready myself for many years that I will never get back sadly.",
+        "This one hurts because it cuts through the fantasy and drops you into the raw math of modern love: time spent doesn’t equal time returned. You gave seven years. He gave a ring to someone else. And now you're left staring at the ledger, trying to figure out if you were ever really seen, ever truly loved, or just orbiting a man who kept you close for comfort while scouting for something shinier. So let’s start with the cold truth: yes, you wasted time. Not because you loved him. Not because you hoped. But because he showed you, rough years of inaction, that you were his convenience, not his choice. And you stayed. That’s not shameful. It’s human. But don’t romanticize it. Don’t call it fate. Own it. You fell for potential. You made him the axis of your future. And he left. He didn’t choose her because she’s “better.” He chose her because he was finally ready. You were there for his indecisive, half-formed, emotionally unavailable years. That wasn’t a reflection of your worth; it was more of a reflection of his unreadiness. She got the version of him that learned something. You were the version he learned it from. You were the lesson. She was the reward. And yes, that’s brutal. But it also means you weren’t rejected for being unworthy. You were simply in the wrong chapter of his story. And he never deserved to be the main character in yours. Now let’s talk about you. You’re not broken or cursed. But you are stuck in a story where love is something you earn by enduring pain. Where value is proven by waiting, by sacrificing, by staying silent and hoping it finally matters. That story needs to die. Because real intimacy doesn’t reward loyalty to someone’s confusion; it rewards loyalty to your own clarity. So what do you do now? First, stop hoping he comes back. He won’t. And if he did, it wouldn’t be because he realized you were “the one”; it would be because something else failed. You are not a backup plan. You’re not the fallback. You’re not the consolation prize. Second, reclaim your narrative. You were someone’s placeholder. Fine. But that’s not your identity. That’s just chapter seven. Now it’s chapter eight. It’s your pen now. Third, heal where it hurts. Not the romantic wound. The deeper one. The belief that love is earned by proving you’re good enough for someone who won’t choose you. That’s the wound. That’s the lie. Burn it out. Fourth, improve... but not for revenge. Don’t glow up to haunt him. Don’t chase beauty or success to make him regret. Grow so the next version of you never again confuses consistency for commitment. So you never again beg to be chosen. Fifth, feel your loneliness, but don’t worship it. You’re not alone because you’re unlovable. You’re alone because you haven’t yet built a life so full that a man is the icing, not the cake. This wasn’t a blessing. It wasn’t fair. It doesn’t have to be. But it can still be the moment you decided your love is too valuable to be wasted on men who can’t see it clearly, claim it fully, or carry it well. That’s the only redemption arc that matters now. You don’t need him back. You need you back. And you’re closer than you think."
+      ],
+      "topic_label": "Topic 17: relationship, love, let, past",
+      "application_priority": "Low Priority - Niche User Interest"
+    },
+    "18": {
+      "topic_id": 18,
+      "count": 29,
+      "tier": "Tier 2 - Secondary User Need",
+      "analysis_depth": "moderate",
+      "top_words": [
+        "pandemic",
+        "job",
+        "jobs",
+        "skills",
+        "company",
+        "experience",
+        "work",
+        "field",
+        "friends",
+        "situation"
+      ],
+      "representative_docs": [
+        ">Do you mind sharing what you do? No problem. I am currently a \"cloud infrastructure architect\". In my current role, I create, assemble, and lead teams of engineers to design, test, and implement physical infrastructure to run cloud computing platforms for a large US company. This requires an extensive knowledge of software engineering, network engineering, computer engineering, power systems, cooling systems, accounting, business management, product management, supply chain, and more. At the time when I experienced what I described, I was intentionally taking roles that would prepare me to become the architect and technical leader I am today. I took a mix of software engineering and network engineering roles, along with a couple of info security and product management roles, deliberately selecting different sizes and types of companies as well to get a well rounded perspective. Key to that period being so crazy, I wasn't working only one job -- I was working a minimum of 2 jobs at any given time and in some cases 3-5 jobs with different companies (some fulltime some part time), usually in different disciplines to be gaining skills and experience in parallel (i.e. working a software engineering job with company A and a network engineering job with company B at the same time). Also during this time I started and ran two nonprofit orgs and a small for-profit business (i.e. part of my business management experience). In addition to be being very lucky in starting my career early, this combination has resulted in me being who I am with my experience 10-15 calendar years ahead of schedule (i.e. peers with similar experience).",
+        "Sure thing! And yes, I bet you in 90% of situations you thinking they are uninterested is really just them being shy and uncomfortable too! **As for approaching different situations. Yes, it affects things a bit.** For parties and bars in particular, I feel like I'm so rusty that I'm not the best person to answer you on that haha. First off, I'm married now and not going out to parties quite as much (not that married people can't party lol). And then of course the pandemic magnifying that even further. I did get a lot better in those areas back in the day, but would like some more post-pandemic bar-hopping before I make too many claims there :-) **For me, my main social situations are:** \\- Casual social gatherings with friends, family, or friends of friends (less so with pandemic though) \\- Work/business networking \\- Random encounters (people I meet at the gym, shops, etc.) **My favorite is actually the random encounters. I think it's nice because there's no real pressure/expectation there. If a good convo happens, it happens. If it doesn't, it doesn't.** If I were single, that would be my favorite way to meet people. Now, it's a bit harder to get things going sometimes, because not everyone is looking for/expecting big conversations in those situations. But it's a numbers game - not every convo is going to work out (whether trying to meet people for friends/relationships, or just to have interesting discussions). **Work/business is pretty easy to talk about anything related to work. If you want to make friends though, it helps to also shift to non-work topics sometimes too.** But the nice thing, is you always have the relatable work topics to fall back on. **Casual gatherings depends on how well you know people there. And also how big the group is. One thing to think about, is if you are better at one-on-one conversations or group conversations. Remember, you don't have to be great at everything.** For instance, if you are more introverted and prefer one-on-ones, then look to try to strike up conversations with other people who seem into one-on-ones too. Keep in mind, there may be some really extroverted people who have trouble staying focused on a one-on-one discussion. They may prefer to jump from conversation to conversation, or to talk to groups. So, try to focus more of your time/energy on the people who are reciprocally interested in those one-on-ones. Basically, know your strengths, and lean into those more. **And one more thing to note - going outside your comfort zone is a great thing. But you don't have to do extremely uncomfortable things right away. You can start slowly.** So, if there is a particular social situation where you feel relatively better at right now (but is still a challenge and pushing yourself some), then work on your social skills more there first. Then, once you've gotten good in that area, start focusing more on improving your social skills in the harder situations (like perhaps the bars/parties).",
+        "First off--kudos for coming here with self-awareness and seeking accountability. Some insights and advice, since you are open to that: * Interviewing is a skill. It's similar to dating. So, as another poster mentioned, keep going with the knowledge that you are building this skill--not \"failing\" interviews. There's a ton of free information out there about how to interview well--find it or hire a career coach if that's feels better and you can afford it (a good one). Depending on the field, industry (not client-side) recruiters can often be your best interview coach, because they're incentivized to help you land the role. * Seems you're in a technical field. If you're willing to share what it is, please do, as it will help me and others give more relevant advice. Given I don't know the field, a couple of things that will apply to varying degrees depending on the role: * \\*Most\\* importantly: even with the most technical of jobs, SO much of what you will do will have to be learned on the job. If it's software dev, you have to learn their systems, their processes, and likely deal with legacy technical debt (which some rando may have written in the most foreign way ever). I've worked in various positions from technical to client-side, and this has proven true everywhere (if you're a surgeon or in a trade, that's different, but those have their own process and from your context, these don't apply). Given this, even for technical roles (at a decent company), the hiring manager will more heavily weigh your soft skills: 1. Is this person willing and capable of learning on the job? 2. Do I like this person/will they work well with the team? 3. Can this person be flexible, inquisitive, open, creative, accountable, accept feedback, etc? 4. Character traits-acts with integrity, trustworthy, kindness, work ethic, values 5. Communication skills * Whatever you can remember from the technical portion of the interview you just had, write it down, and work on figuring it out. Reach out to old classmates, or use the various free or cheap courses. * Find people in your position, even others who work at your desired company, and do informational interviews. Several benefits here: * This is a more casual format, so you'll get more information. They're likely to be more open about what the culture's really like, work/life balance, leadership, team morale, etc. * This has the energy of meeting a new friend for coffee, and oftentimes, given a context where you're interested in the other person for any reason, there's likely to be a good connection. If they like you, your resume gets on top (most employees are incentivized for referrals, and they also want to work with people that they like). * You can ask them about the interview process. What is expected out of the technical aspect? Be careful on this one, I would ask towards the middle/end, or not at all depending on how it's going. * If you're struggling with accountability, motivation, or any mental health bobbles (this situation is often a trigger for depression, imposter syndrome, bad habits/addictive behavior, etc), use virtual co-working both to learn what you need to learn, and to work on your job finding activities. I was always such a self-starter, but when I made the switch to being an entrepreneur, I dealt with all of the above, and the majority do at some point. Back then I co-worked in person often with other entrepreneurs, and the last several years, I have 2-3 days/week where I meet up with a friend on video, and we check in what we need to work on, help each other through any blocks (if we're having trouble prioritizing, or need help--this is usually only a few minutes), and hit the timer. We might work for 30-60 minutes depending on our tasks. After each 30-60 min round, we check in how it went, and what's on deck for the next, repeat. At times, I have needed to use this just to do basic housework, or get my body moving. Please give yourself the latitude for being human, doing a really hard thing, and ask for exactly what you need. I promise more people have been there than you imagine. * Mental health tip: given the energetic expense of this situation, acknowledge and honor your limits for how many hours you spend in a given day. You may play with it a bit to figure it out, but then let go of any expectation to do more than that. There have been times when the intensity of life or my work tasks were so high, that I didn't require more than a couple of hours. Some days, 30 minutes. It changes, and this may not apply to you or may seem weird right now, but if you're in this for a while, it may come up. Wishing you the best of luck. I promise, this is a natural and challenging process that people simply don't talk about enough (and schools typically don't prepare you well for job searches)."
+      ],
+      "topic_label": "Topic 18: pandemic, job, jobs, skills",
+      "application_priority": "Low Priority - Niche User Interest"
+    },
+    "19": {
+      "topic_id": 19,
+      "count": 28,
+      "tier": "Tier 2 - Secondary User Need",
+      "analysis_depth": "moderate",
+      "top_words": [
+        "written",
+        "sentences",
+        "tool",
+        "comment",
+        "human",
+        "double",
+        "reads",
+        "ai",
+        "sub",
+        "clearly"
+      ],
+      "representative_docs": [
+        "I don’t use ChatGPT for any sort of communication at all because I know whatever I come up with will be better I use em dashes all the fucking time If you or anybody else were to assume I was using Charcot because I was using an effective tool for written communication—fuck you",
+        "I used AI to help generate exercises. You can use ChatGPT to have direct conversations if you want. But I don't want distraction, so i just told ChatGPT, I want to practise X verb in the present tense. Can you give me 10 sentences that use this verb. I also have word bubbles. like colors, weather, fruits, vehicles, family members. I add that in the prompt too \"I want to practise the verb 'to be' in the present tense, using all conjugations. Can you generate 10 sentences in English that I can translate to german, that involve a different member of the family.\" And so on. I just do this 10 times, with different verbs and word bubbles once you have those sentences, you just practise translating 10 sentences a day every day",
+        "I was happy to see your comment! I saw a post yesterday on an Aussie makeup sub and the top comment was \"upvoting for that first sentence alone.\" It was clearly ChatGPT because it overtly peppered the post with Aussie slang and had all of the double hyphens everywhere. Even without the double hyphens, it just seems so obvious to me? I'm a manager and 95% of the job applications I review are ChatGPT and it just sounds....uncanny and not how a human would talk...real human cover letters stand out in the best way now. ChatGPT is a very valuable tool but people are getting quite lazy. For comparison here's this same comment ChatGPT-fied: Sure! Here's a more polished and succinct version: Thanks — I appreciated your comment! I saw a post yesterday on an Aussie makeup sub where the top reply was, “Upvoting for that first sentence alone.” It was clearly written by ChatGPT — loaded with Aussie slang and full of double hyphens. Even without the formatting, it just stood out. As a manager, I’d say about 95% of the job applications I review are ChatGPT-written. They often sound a bit off — not quite how real people speak. Ironically, the genuinely human cover letters stand out now… in the best way. ChatGPT is a great tool, but people are definitely getting lazy with how they use it."
+      ],
+      "topic_label": "Topic 19: written, sentences, tool, comment",
+      "application_priority": "Low Priority - Niche User Interest"
+    },
+    "20": {
+      "topic_id": 20,
+      "count": 28,
+      "tier": "Tier 2 - Secondary User Need",
+      "analysis_depth": "moderate",
+      "top_words": [
+        "ai",
+        "bullshit",
+        "written",
+        "asking",
+        "irony",
+        "ideas",
+        "paragraph",
+        "male",
+        "ask",
+        "google"
+      ],
+      "representative_docs": [
+        "AI told me to get a life.",
+        "This is an AI response used to defend an AI post.",
+        "This post seems suspiciously AI made..."
+      ],
+      "topic_label": "Topic 20: ai, bullshit, written, asking",
+      "application_priority": "Low Priority - Niche User Interest"
+    },
+    "21": {
+      "topic_id": 21,
+      "count": 27,
+      "tier": "Tier 2 - Secondary User Need",
+      "analysis_depth": "moderate",
+      "top_words": [
+        "version",
+        "email",
+        "app",
+        "hello",
+        "months",
+        "available",
+        "wait",
+        "update",
+        "twitter",
+        "laptop"
+      ],
+      "representative_docs": [
+        "someone asked for a mailing list to remind them when the android version is ready. Well I don't have a mailing list but if you email \"android\" to mindpadapp@gmail.com then I'll send you 1 email when it's live :)",
+        "Will do! And if you'd like to get reminded when the Android version is out, you can send an email to hello@mindpad.io mentioning the word \"Android\". I'll send you 1 email when it's out, that's it. Thanks for the support, means a lot :)",
+        "Some people asked to keep them posted on the arrival of the Android version. If you send an email to [hello@mindpad.io](mailto:hello@mindpad.io) with \"Android\" in the title, I will send you 1 email once it's out :) I think this will be in about 2-3 months!"
+      ],
+      "topic_label": "Topic 21: version, email, app, hello",
+      "application_priority": "Low Priority - Niche User Interest"
+    },
+    "22": {
+      "topic_id": 22,
+      "count": 26,
+      "tier": "Tier 2 - Secondary User Need",
+      "analysis_depth": "moderate",
+      "top_words": [
+        "japanese",
+        "zen",
+        "accountability",
+        "speak",
+        "english",
+        "suicide",
+        "girl",
+        "war",
+        "culture",
+        "don make"
+      ],
+      "representative_docs": [
+        "As someone who actually speaks Japanese, I can't find any resources on kyojitsu (虚実) mentioning your points in Japanese. The word is short for kyokyojitsujitsu (虚々実々) which literally means \"fake fake true true\" or more metaphorically \"weakness weakness strength strength\" and is about taking advantage of your opponent's weaknesses and ignoring their strengths. It's important for war strategy but there's nothing more to it about laziness, procrastination, or even resistance. It's not even a 400 year old samurai philosophy, [it originally comes from Sun Tzu's Art of War]( which is a 2000 year old Chinese book. Feel free to throw the most complex dictionary definition I could find into a translator if you don't believe me: > 互いに相手のすきをねらい、さまざまな策略や手段を使って戦うこと。また、取引や交渉などで、うそとまことを取り混ぜて、互いに相手の腹を読み合って駆け引きすること。 > > 注記: 「虚」は、備えのすき、「実」は、備えの堅いところ。備えの堅いところは避けて、備えのすきをついて戦うという意から。「虚」と「実」を重ねて、語意を強調したもの。 As with most Japanese words popular with English speakers (ikigai, kaizen, omotenashi, etc.) there's nothing mystical or special about it and the bulk of the meaning is made up by westerners. It's Asian mysticism, and you should be suspicious whenever a westerner makes a random reference to something Asian.",
+        "Most English people can't speak japanese. (ik this is irrelevant I just had to hahaah)",
+        "a lot of big financial companies would love to have you work for them and interact with their Japanese clients. Just client relationship and talking with the Japanese clients goes a long way. Look up big accounting firms that need Japanese speakers."
+      ],
+      "topic_label": "Topic 22: japanese, zen, accountability, speak",
+      "application_priority": "Low Priority - Niche User Interest"
+    },
+    "23": {
+      "topic_id": 23,
+      "count": 26,
+      "tier": "Tier 2 - Secondary User Need",
+      "analysis_depth": "moderate",
+      "top_words": [
+        "men",
+        "women",
+        "woman",
+        "different",
+        "man",
+        "surprised",
+        "say",
+        "weird",
+        "trait",
+        "strange"
+      ],
+      "representative_docs": [
+        "This is why it’s hard to have these conversations as a woman with men bc almost always men will center themselves and discomfort before what is being said. It’s honestly exhausting.",
+        "This. Seriously, I keep coming across men who vent about being forever alone who don’t go outside and engage with the word, they then use external validation like women in their life say they are a great catch and that they aren’t ugly. Well, it’s the mentality they carry that makes them unattractive. Also men who believe that having a partner just means someone to go on cute dates with and hug each other….there’s more to life dang it!",
+        "Why is this exclusive to men?"
+      ],
+      "topic_label": "Topic 23: men, women, woman, different",
+      "application_priority": "Low Priority - Niche User Interest"
+    },
+    "24": {
+      "topic_id": 24,
+      "count": 25,
+      "tier": "Tier 2 - Secondary User Need",
+      "analysis_depth": "moderate",
+      "top_words": [
+        "women",
+        "confidence",
+        "looks",
+        "man",
+        "men",
+        "confident",
+        "look",
+        "people",
+        "person",
+        "statement"
+      ],
+      "representative_docs": [
+        "I used to be a softer version of myself, thinking it would earn me love and respect. It didn’t. It got me walked on, disrespected, and eventually divorced After my divorce, I went through a phase — slept with over 50 women. That taught me more about female nature than any book. Attraction isn’t about being nice it’s about confidence direction, and self-respect. Here’s what actually helped me turn things around: • Started lifting — built muscle, discipline, and confidence • Dialed in my nutrition — stopped eating like trash, cleaned up my body and mind • Read every day — books on mindset, masculinity, leadership • Walked in nature — got clear-headed, away from noise and distractions • Cold approached one person daily — man or woman, just to build social confidence • Held myself accountable — no more blaming anyone else You don’t need permission to become the man you know you should be. Stop waiting. Start building. No one’s coming to save you",
+        "I mean I'm not short, but yeah. It was actually fucking eye-opening. I grew up hearing a lot of shit about men being shallow when it came to women and looks. As a guy who, for a time, went from a round slob to a Thor looking mother fucker (occasionally literally) it turns out that men have NOTHING on women in the shallow department. I had women, even attractive otherwise respectable types, come up to me and try to pick me up when I was out with my girlfriend and say stuff that would make the guys in the locker room blush. But I mention none of that as a knock on women, but it's just an acknowledgement that people, in general, find people that are more attractive, more attractive. Imagine that?",
+        "This whole narrative about short men getting fewer women is complete bullshit. What really happens is that many men feel so damn insecure about their height and that insecurity becomes obvious to women. And for most women such huge and obvious insecuritys is a total turn-off. If you’re confident as hell, don’t take yourself too seriously, have charisma, and you are a genuinely interesting man, most women won’t care about your height at all. And if a woman does care only about your height? Then great, you can sort her out instantly. That’s usually not the kind of person you’d want in your life anyway."
+      ],
+      "topic_label": "Topic 24: women, confidence, looks, man",
+      "application_priority": "Low Priority - Niche User Interest"
+    },
+    "25": {
+      "topic_id": 25,
+      "count": 25,
+      "tier": "Tier 2 - Secondary User Need",
+      "analysis_depth": "moderate",
+      "top_words": [
+        "app",
+        "twitter",
+        "social media",
+        "media",
+        "youtube",
+        "data",
+        "learned",
+        "social",
+        "terrified",
+        "people"
+      ],
+      "representative_docs": [
+        "Tik Tok is one social media app. It's not used as much as Twitter. Why aren't they banning Twitter?",
+        "Lmao the United States is trying to harm the United States. Who cares if the CCP knows what memes we like? META literally sells our data. META manipulates their algorithm to push right-wing talking points. I learned about the Uyghurs on TikTok. I have learned nothing on reels aside from how much some men hate women, and how “amazing” trump will be for the economy. META got rid of fact-checkers to allow disinformation to run rampant. If you’re going to ban an app over one bullshit concern (instead of you know, requesting algorithm transparency if you’re REALLY SO VERY CONCERNED, and keeping our elected officials off tiktok since they were SO VERY CONCERNED). Yet, we have the same people who voted FOR the ban WITH goddamn tiktok accounts! If they were SO UTTERLY TERRIFIED maybe they shouldn’t have made a fucking account. If they’re so goddamn TERRIFIED they need to ban Meta for doing worse.",
+        "TikTok was not solely used as a social media app. There are thousands of small businesses on that app that were basically told to GFY"
+      ],
+      "topic_label": "Topic 25: app, twitter, social media, media",
+      "application_priority": "Low Priority - Niche User Interest"
+    },
+    "26": {
+      "topic_id": 26,
+      "count": 25,
+      "tier": "Tier 2 - Secondary User Need",
+      "analysis_depth": "moderate",
+      "top_words": [
+        "girl",
+        "girls",
+        "weird",
+        "men",
+        "guys",
+        "aggressive",
+        "therapy",
+        "asking",
+        "talk",
+        "women"
+      ],
+      "representative_docs": [
+        "It's so weird being a girl I never actually realized how nervous guys get talking to us. Just talk to us like we're normal human beings. Is it the expectation of getting something romantic/sexual out of it? What makes girls so hard to talk to? Genuinely curious.",
+        "I don't think that going around and asking people weird requests will make you better at taking rejections from girls. it will just make you better at asking strangers weird questions and expect to hear the obligatory \"no\". these actions aren't honest, you don't really want to deliver pizza for dominos, and you don't expect them to agree to that. when you will ask a girl out again, it will be (hopefully) honest, because you would want to date her and get to know her. you would want to hear \"yes\". a big part of taking rejections hard (in your words - feeling a paralyzing fear), is that deep down, you believe in a bad value. maybe it's that you're not good enough. maybe it's that you're at fault for approaching. maybe it's that you're not worthy for them. whatever that value is - finding it and questioning yourself about it (am I truly not good enough, or maybe we just don't fit together?) will make you cope with rejection problems. nobody likes to be rejected. it will always be scary, but challenging your beliefs on what you truly have to lose when you approach girls will make it a lot less daunting. and like another commentor here said, you also waste working people's time for selfish gains with these requests. I went over some of these \"goals\" from your first post. most of them are just being a dick to other people. at least pick the goals that aren't exploiting others (like asking for compliments, raising donations for charity etc)",
+        "I think it's a vicious cycle. A lot of guys don't realize how early and how often women have to deal with very creepy and aggressive come-ones from older men. [This thread]( is full of stories of girls 10-14 (and some even younger) being catcalled, chatted up, and groped by adult men. A lot of girls develop rude and aggressive responses to unwanted sexual interest as a defense mechanism. Unfortunately, by the time our actual peers start showing interest several years later, it's already a set pattern, so it can result in nervous boys being rejected by behavior developed in response to aggressive men, which has the result of turning some of the boys into the type of angry, bitter men who hurl insults at a girl for rejecting them and teach her to be harsh and rude to the next guy, so the cycle continues. Of course, some women are just naturally bitches and some guys are just naturally creepy, but for the rest, a little empathy on both sides might go a long way towards helping break the cycle."
+      ],
+      "topic_label": "Topic 26: girl, girls, weird, men",
+      "application_priority": "Low Priority - Niche User Interest"
+    },
+    "27": {
+      "topic_id": 27,
+      "count": 24,
+      "tier": "Tier 2 - Secondary User Need",
+      "analysis_depth": "moderate",
+      "top_words": [
+        "coffee",
+        "cold turkey",
+        "turkey",
+        "tea",
+        "cold",
+        "drinking",
+        "days",
+        "effects",
+        "week",
+        "drink"
+      ],
+      "representative_docs": [
+        "But what if i am trying to give up coffee?",
+        "Decaf is great if you just .... *like* the taste of coffee. I was shocked that I prefer weak coffee to strong coffee because the bitterness is missing. Coffee has a nice complex flavor in its own right. Why ruin it by drinking it in concentrate? Coffee flavored water is pretty good. Doesn't need sugar or anything.",
+        "Good stuff. &#x200B; > **Bonus 3:** No coffee, ever, especially past 3PM. A healthy human (fit, vitamins in check, healthy diet, no empty carbs..) being shouldn't need coffee to get through the day. Also it's a drug with real withdrawals. I only use it in very exceptional situations. &#x200B; Man this is a tough one. I love coffee and every time I quit, I start drinking it again because I love the taste and it takes only one coffee on a groggy morning. I haven't really noticed negative effects though even when I do use coffee."
+      ],
+      "topic_label": "Topic 27: coffee, cold turkey, turkey, tea",
+      "application_priority": "Low Priority - Niche User Interest"
+    },
+    "28": {
+      "topic_id": 28,
+      "count": 21,
+      "tier": "Tier 2 - Secondary User Need",
+      "analysis_depth": "moderate",
+      "top_words": [
+        "country",
+        "world",
+        "live",
+        "guess",
+        "economy",
+        "living",
+        "countries",
+        "american",
+        "maybe just",
+        "city"
+      ],
+      "representative_docs": [
+        "> • How it would feel to live in a third world country. Threw me off for a bit because that's my reality lol",
+        "I live in Brazil, which is considered a third world country (because of its economy right?), but i wouldn't trade my country for anywhere else. Imagining living here as a negative thing, and thinking everyone wants to be an american or something it's kinda demeaning I guess. I guess americans think all third world countries are plagued all around by famine and war and disease and poverty and violence, and that everyone here's miserable and uneducated and it must be horrible living here. It's not even near the truth. Guess what? I never have to deal with violence in my life, I live a pretty comfortable life, i have a good job, food in my belly, good internet, a good gaming pc, the city where i live is pretty and very peaceful, and i know manyyy people like me, most of the bad news from Brazil that people from outside see are from localized places, like the violence in Rio de Janeiro's favelas, or the poor parts of the gigantic city of São Paulo. But i guarantee it's not the same in every place. Sure our economy is not that good, our presidents are idiots, and the dollar conversion to reais is absurd, but man, how i wish people outside Brazil knew that they have no idea what they are talking about when they classify all \"third world countries\" as one and the same and look down upon people who live here. That just rubbed me wrong, but the rest of the tips are nice. Maybe just be more considerate, not everyone in the internet lives in the same world as you and mostly don't even WANT to.",
+        "That awkward moment when you try to envision yourself living in a third world country only to realise you already live in one."
+      ],
+      "topic_label": "Topic 28: country, world, live, guess",
+      "application_priority": "Low Priority - Niche User Interest"
+    },
+    "29": {
+      "topic_id": 29,
+      "count": 20,
+      "tier": "Tier 2 - Secondary User Need",
+      "analysis_depth": "moderate",
+      "top_words": [
+        "learn",
+        "language",
+        "fun",
+        "learning",
+        "schedule",
+        "basic",
+        "youtube",
+        "art",
+        "make",
+        "time"
+      ],
+      "representative_docs": [
+        "Absolutely! We're on the same page actually. If you care about learning a language, then you'll be okay with the initial \"heavy lifting\" period of the learning process. However, if you only want to learn a language because of the story it tells about you as a person (identity), then it's so much harder to actually go through the years of practise it takes to learn a language. Does that make sense? Once we value the thing for what it is, and not the story it tells about us, then the pain of achieving it becomes more manageable. If not, you get (juuuuuuuuuuust kidding!)",
+        "Well said, and to branch from those thoughts, learn to enjoy the **process** instead of the **goal**. This applies especially to megaprojects such as college degree, programming project, learning a language, or learning to play an instrument. Let's say that you are learning a language. You shouldn't think so that you will practice really hard for a few years and after that you can enjoy the language. The problem with such thinking is that you cannot sustain pure rote work for that long without burning out. Instead, you should enjoy things like learning one new word or adding a little new piece to your grammar skills. Even if you only know how to say \"hello\" in that language, enjoy that skill. Then add a little bit more. One day you can say \"the ball is on the table\". It makes you ponder, what if you wanted to change it a bit and say instead \"the ball is under the table\". That makes an interesting little mini task. All this time, you are having fun dicking around with the language. This will make you feel like a winner all the time. Not after few years. Of course you can and should set some realistically achievable intermediate goals for yourself to accelerate the progress. Raise the bar a little bit every now and then, in a way that gives you just the right amount of new challenge. But you should also spend plenty of time using the knowledge that you already have. You will find out that you can piece together all kinds of things with the information that you already have.",
+        "omg omg I would love to have this kind of time!!!! You can do so many things. I'm just throwing ideas out there - hopefully some of them are appealing to you. Overall, I'd make a big list of things to try once, and about 3 things to get good at. Now on to a list * Learn to cook. REALLY LEARN. Bake bread every day. Tweak your recipe until it becomes FANTASTIC. Make yourself a hot breakfast every morning. (Bonus: Excellent skill for post-sexytimes.) * Draw for 10 minutes/day. There are some good internet tutorials. Learn to write with your non-dominant hand. * Start a blog. Write for 1 hour/week. Or 20 minutes/day. * Practice public speaking. Toastmasters has great resources online. Just grab an empty room in the library and videotape yourself. Write a 5 minute speech, or give a 2 minute impromtu response to the most recent askreddit question. * Learn a language - others gave some online resources for this. * Basic programming - codeacademy and many others available to teach you online. Even if you just spend 2 hours/weekday coding, this will really set you ahead in future opportunities/jobs. * Basic graphic design. Design a menu for that catering event someone forgot to print out signs for. Design a logo so you know how when you start a kickass business in 3 years. * Exercise. I could write for hours on exercise. Take dance lessons, or go to the salsa club with free ones. I don't care what kind of dance - ballet/modern/ballroom/whatever. The key here is regular practice. When you're good, your coordination and confidence will show in everything you do. You said you weightlift - that's great. Keep up the good work! I wouldn't worry about tiring yourself out - human bodies are really good at adapting to being really active. Get yourself in fantastic shape this summer. Go biking, running, dancing, swimming AND weightlifting. Or whatever you find fun. Start slow, know your limits and don't get hurt :) * Learn poi / juggling / staff spinning / other prop spinning arts. Youtube has great tutorials and you can make sock poi or a basic staff for < $5. * Magic tricks. Get a deck of cards and youtube. My roommate has only been practicing for 2 months and is fantastic. Learn to please an audience. Practice with everyone you know. * Talk to EVERYONE. The cashier, the girl on the subway, the bank teller. You aren't good enough at engaging people until you're on the phone with your bank to cancel your credit card and end up talking about travel plans in Russia. (My friend is this good. He started by opening conversation with EVERYONE.) * Watch 2 Ted talks every day. * Learn shit. Whatever you want - Khanacademy, * Build stuff. You didn't mention your major, so maybe this is irrelevant. Learn to use basic * Volunteer. That could be a whole separate post. * Learn to run events. This is a pretty crucial life skill as well, and most organizations are lacking event planners. Host a dinner party to fund-raise for a charity/One Fund Boston/whatever is dear to you. * Learn a musical instrument(s) * Busk. With the dancing/musical instruments/prop spinning and awesome public speaking skills you now have, you should be set to try it out! Check our your local laws - sometimes they require you to have a permit. Even if you suck (which you will at first, but you'll get better), you should be able to break even in a few days in a busy city. * Garden * If you haven't already, head over to r/[fe]malefashionadvice and learn to fit clothes properly, etc. * Your turn. Keep this list going. Now, OP. This is in so we don't stop here. Pick 10 things you want to try once, and 3 things you want to really learn. Write them down. Now make a schedule. Get out your calendar, and schedule them in. Here's what I recommend. You get off work at 3, so you'll sleep from 4-noon. Not much you can do about that. Get up before noon every day. Schedule out those 6 hours. Personally I use google calendar. Here's an example: > noon shower > 1230 make hot breakfast > 1-3 work time. alternate between watching lectures (ted talks, khanacedemy, etc), learning a language, and coding. > 3-5 weightlifting/biking/insert exercise here. You could weightlift MWF and bike/run TRS. > 5-6 free time/reddit/... > 6-3 work Now you follow your schedule. Always move on the next thing at the specified time, even if you're not done with your current task. You'll pick it up the next day, and you want to make sure you get to everything. As you proceed, you may find you need more or less time for certain activities, and you can adjust your schedule accordingly. And remember to schedule in time for fun! Don't be too disciplined you don't have fun, get laid and surf reddit. You can allow for veg-out-time in the schedule. You can relax knowing that you'll be productive at the appropriate times. :) Hope that helps! Let us know how it goes :)"
+      ],
+      "topic_label": "Topic 29: learn, language, fun, learning",
+      "application_priority": "Low Priority - Niche User Interest"
+    },
+    "30": {
+      "topic_id": 30,
+      "count": 20,
+      "tier": "Tier 2 - Secondary User Need",
+      "analysis_depth": "moderate",
+      "top_words": [
+        "shower",
+        "morning",
+        "showering",
+        "nbsp",
+        "cold",
+        "night",
+        "day",
+        "folks",
+        "water",
+        "hot"
+      ],
+      "representative_docs": [
+        "Body: Sweaty &nbsp; Mouth: Tastes like hot garbage &nbsp; Hair: An oily mess &nbsp; Ass: Requiring immediate evacuation &nbsp; I can't comprehend people *not* taking a shower immediately after waking up.. &nbsp; Edit: Not trying to knock on you night showerers. I used to be a night showerer too when I had a more regular job and wanted those precious extra few minutes of sleep in the morning. Still felt a little gross in the morning tho.. Also my hair won't stay down unless it's wet first so it's either I wet my hair in the sink to avoid looking like wolverine or jump in the shower real quick. &nbsp; Edit2: Now I feel like I need to take a damn shower",
+        ">but only one is a “full” shower My roommate would beg to differ.",
+        "A couple questions from someone who hasn’t showered in the morning for years - when do you morning shower folks exercise? Before your shower in the morning? Does that then defeat the purpose of a cold shower? Or do you shower in the evening as well after exercising?"
+      ],
+      "topic_label": "Topic 30: shower, morning, showering, nbsp",
+      "application_priority": "Low Priority - Niche User Interest"
+    },
+    "31": {
+      "topic_id": 31,
+      "count": 19,
+      "tier": "Tier 3 - Niche User Need",
+      "analysis_depth": "brief",
+      "top_words": [
+        "dog",
+        "dad",
+        "best",
+        "taking care",
+        "care",
+        "taking",
+        "heart",
+        "story",
+        "talking",
+        "love"
+      ],
+      "representative_docs": [
+        "So happy for you and your dog!",
+        "Bichons are the best dogs and your dog is the best dog and I’m glad she’s getting the best dog treatment.",
+        "Your dog is the cutest!"
+      ],
+      "topic_label": "Topic 31: dog, dad, best, taking care",
+      "application_priority": "Low Priority - Niche User Interest"
+    },
+    "32": {
+      "topic_id": 32,
+      "count": 18,
+      "tier": "Tier 3 - Niche User Need",
+      "analysis_depth": "brief",
+      "top_words": [
+        "helps",
+        "yes",
+        "studies",
+        "link",
+        "information",
+        "research",
+        "term",
+        "steps",
+        "validated",
+        "sense"
+      ],
+      "representative_docs": [
+        "I just feel I need to say something here as someone that works in an academic scientific discipline. While this advice may be helpful anecdotal information, if anyone clicked on that link and their bullshit detectors went off a bit, you are justified. Enneagram tests are NOT empirically validated psychometric tests, so take that as you will.",
+        "True, but it helps quite a bit to get at the same time every day. Helps with anxiety and having a feeling of control.",
+        "Depends on the person. Having an optimized life 5 days a week helps me feel less depressed. I get a sense of order which helps counter my anxiety about the future"
+      ],
+      "topic_label": "Topic 32: helps, yes, studies, link",
+      "application_priority": "Low Priority - Niche User Interest"
+    },
+    "33": {
+      "topic_id": 33,
+      "count": 17,
+      "tier": "Tier 3 - Niche User Need",
+      "analysis_depth": "brief",
+      "top_words": [
+        "app",
+        "phone",
+        "click",
+        "search",
+        "explain",
+        "option",
+        "access",
+        "ll",
+        "attention",
+        "changed"
+      ],
+      "representative_docs": [
+        "I try to remember that the world used to be much darker and actually is brighter than it was. Name me a period and I'll tell you how fucked up it was. I think our current malaise is do to how much information we can quickly access. Turn off your devices for 2 weeks and you'll realize its just being piped into your head.",
+        "If you’re on iOS 1. either long press on your screen(not on an app), or on an app and click “edit Home Screen” 2. There should be a plus sign on the top right of your screen, right under the battery level indicator 3. in the action sheet that pops up, search for “Screen Time”. 4. Swipe through the different levels of detail available 5. click add widget. Now you should be able to drag and place it where you want as well(exactly like an app) Let me know if that doesn’t work for you. I’ve had this for a few months now and it does help. A pro tip would be to place it on your first app screen(the one where when you swipe left, it brings up the search)",
+        "I had big problems with my phone. Someone on Reddit suggested putting your phone into grayscale (black and white). I was skeptical, but I tried it a few months ago. (This is besides the obvious- uninstalling social media apps). It changed everything. It's hard to explain, but something about how *vivid* the colors are just sucks you in, even if you're in something as mundane as a weather app. I now only access socials (i.e. Reddit) on my computer or iPad, which feels like a much more purposeful activity- rather than the mechanical 'glance at my phone' My screen time is down 90% and I've never been happier. My mental clarity has improved, I'm way more present, my attention span is already coming back. Highly recommend."
+      ],
+      "topic_label": "Topic 33: app, phone, click, search",
+      "application_priority": "Low Priority - Niche User Interest"
+    },
+    "34": {
+      "topic_id": 34,
+      "count": 17,
+      "tier": "Tier 3 - Niche User Need",
+      "analysis_depth": "brief",
+      "top_words": [
+        "needed",
+        "sentences",
+        "nbsp",
+        "post",
+        "read",
+        "words",
+        "reading",
+        "text",
+        "quote",
+        "bullet points"
+      ],
+      "representative_docs": [
+        "🙌🏼 words can’t describe how much I needed this post.",
+        "Yeah it’s very start-stop. The paragraphing (together with the length of the sentences) makes me feel like I’m reading an *extremely* long list of bullet points. I’m glad it was helpful for some people but I’m not able to absorb this at all. Oh well :(",
+        "Speaking of answers, I've got one for you. I noticed you tried to quote some of my post. &nbsp; If you use the greater than symbol (>) and then type whatever text you want to quote, it'll do it for you. &nbsp; Observe: &nbsp; > This is exactly where I'm at right now. I needed to read this part so much. Thank you. I too have always been searching for an answer and that's why I know I can't give up."
+      ],
+      "topic_label": "Topic 34: needed, sentences, nbsp, post",
+      "application_priority": "Low Priority - Niche User Interest"
+    },
+    "35": {
+      "topic_id": 35,
+      "count": 17,
+      "tier": "Tier 3 - Niche User Need",
+      "analysis_depth": "brief",
+      "top_words": [
+        "stoic",
+        "modern",
+        "philosophy",
+        "podcast",
+        "book",
+        "wisdom",
+        "daily",
+        "toxic",
+        "clearly",
+        "control"
+      ],
+      "representative_docs": [
+        "The book I am currently reading: [The Daily Stoic: 366 Meditations on Wisdom, Perseverance, and the Art of Living](",
+        "Wake up early and work out. If your day totally goes to shit, at least you accomplished one positive thing that was totally under your control. Also, get into Stoicism. Start with The Daily Stoic podcast, particularly the episodes that are under 10 minutes. If you happen to have a kid, start with The Daily Dad podcast. Both were real eye-openers for me.",
+        "I'm a stoic and I didn't even know it. ¯\\\\_(ツ)_/¯"
+      ],
+      "topic_label": "Topic 35: stoic, modern, philosophy, podcast",
+      "application_priority": "Low Priority - Niche User Interest"
+    },
+    "36": {
+      "topic_id": 36,
+      "count": 16,
+      "tier": "Tier 3 - Niche User Need",
+      "analysis_depth": "brief",
+      "top_words": [
+        "homeless",
+        "services",
+        "temporary",
+        "offer",
+        "jobs",
+        "job",
+        "local",
+        "sign",
+        "resources",
+        "provides"
+      ],
+      "representative_docs": [
+        "Such terrible advice. If I was unemployed I'd be homeless in 2 weeks.",
+        "If u do go homeless, planet fitness gym membership( cheapest one I think, also long hours) to shower and whatnot, and they have free food. Just to stay clean and shit for your job",
+        "Note taken. I’m a researcher, so let me see what I can dig up for you. Gimme til tomorrow Also, have you both applied for welfare and food stamps? —————- EDIT: keep checking this comment, I’ll add links as I find them. [FindHelp.org]( [FindHelp.org Temporary Shelter by you]( [Cause IQ]( - Directory of Homeless Shelters across Mississippi - you may need to go to a new locale to get in one [Open Door Homeless Services]( [Shelter Listings]( - search by location. Look at other towns close to you too In Mississippi, hotel vouchers for homeless individuals can be accessed through various programs and organizations, including those funded by the U.S. Department of Housing and Urban Development (HUD). South Mississippi Housing Authority's Emergency Voucher Program assists individuals facing homelessness or at risk of homelessness. Additionally, organizations like NEWCAP Inc. and the Salvation Army offer motel voucher assistance. MUTEH Inc. and Open Doors Homeless Coalition also play a role in providing temporary housing and re-housing assistance. Here's a more detailed look at how to access hotel vouchers: [Emergency Housing Vouchers (EHVs):]( HUD's EHV program provides assistance to individuals and families who are homeless, at-risk of homelessness, or fleeing domestic violence. PHAs and CoCs manage these vouchers, offering temporary housing options. [South Mississippi Housing Authority:]( They offer an Emergency Voucher Program that can provide temporary housing assistance to those experiencing or at risk of homelessness. [NEWCAP Inc.:]( This organization offers assistance with shelter in a nearby motel until an individual can link up with other support networks. [The Salvation Army:]( They offer motel voucher assistance as part of their homelessness programs. [Mississippi United to End Homelessness (MUTEH):]( MUTEH provides rapid re-housing assistance, which can include temporary hotel vouchers. Open Doors Homeless Coalition: They offer a Coordinated Entry system that provides access to various housing opportunities and services, including temporary housing. 2-1-1: Dialing 2-1-1 can connect you with local resources and organizations that can provide assistance with homelessness, including hotel vouchers. [Community-based organizations:]( Local churches, Catholic Charities, and other community-based organizations may offer assistance with hotel vouchers. [Back Bay Mission]( Biloxi [Homeless Shelters in Biloxi]( [Shepherd of the Gulf]( - helps homeless campers with supplies [Homeless Assistance]( by location —— EDIT 2: If you need internet and a computer, your [local library]( has it, but I just checked and it maybe closed for renovation, but in the link, it tells you what other libraries near by are open. Also, if you need a physical address to sign up for social services like welfare and foodstamps, sometimes homeless shelters or homeless services will let you have your mail forwarded there. When you call to ask about shelter and services, inquire about that too, because it may come in handy in the future. ———- EDIT 3: I just found you a FREE RV on craigslist!!! If you’re interested, reach out to the ASAP!! ———- EDIT 4: Here are some jobs I found for you on Craigslist: [Outdoor Maintenance Worker]( [Moving Helpers/Moving Drivers]( [Lawn Care Workers]("
+      ],
+      "topic_label": "Topic 36: homeless, services, temporary, offer",
+      "application_priority": "Low Priority - Niche User Interest"
+    },
+    "37": {
+      "topic_id": 37,
+      "count": 16,
+      "tier": "Tier 3 - Niche User Need",
+      "analysis_depth": "brief",
+      "top_words": [
+        "water",
+        "drink",
+        "drinking",
+        "unless",
+        "tea",
+        "crazy",
+        "huge",
+        "encouraged",
+        "like having",
+        "add"
+      ],
+      "representative_docs": [
+        "Drinking enough water. I used to just drink when thirsty and didn't notice how much my energy levels were affected when dehydrated.",
+        "5 minutes of drinking water??",
+        "Drink 2-3 litres of water today."
+      ],
+      "topic_label": "Topic 37: water, drink, drinking, unless",
+      "application_priority": "Low Priority - Niche User Interest"
+    }
+  },
+  "processing_info": {
+    "method": "fast_sampling",
+    "sample_size": 9825,
+    "processing_time": "optimized_for_speed",
+    "timestamp": "20250529_152018"
+  }
+}
